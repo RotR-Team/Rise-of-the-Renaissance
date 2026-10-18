@@ -82,10 +82,10 @@ focus_tree = {
 		prerequisite = { focus = the_house_of_lancaster }
 		completion_reward = {
 			add_stability = 0.05
-									white_peace = FRA
-									15 = {
-										   transfer_state_to = FRA
-									}
+			white_peace = FRA
+			15 = {
+				transfer_state_to = FRA
+			}
 		}
 		ai_will_do = {
 			factor = 1
@@ -115,7 +115,7 @@ focus_tree = {
 		cost = 5
 		completion_reward = {
 			add_political_power = 50
-												army_experience = 50
+			army_experience = 50
 		}
 		ai_will_do = {
 			factor = 1
