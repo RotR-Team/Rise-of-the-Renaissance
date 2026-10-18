@@ -1,5 +1,5 @@
 name="Rise Of The Renaissance"
-supported_version="1.19.3.0"
+supported_version="1.19.*"
 replace_path="common/ideas"
 replace_path="common/national_focus"
 replace_path="common/frontend/backgrounds"
