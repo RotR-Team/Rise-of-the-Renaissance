@@ -1,0 +1,96 @@
+focus_tree = {
+	id = aragon_focus
+	default = no
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = ARA
+		}
+	}
+	continuous_focus_position = { x = 34 y = 942 }
+
+	focus = {
+		id = the_conquest_of_naples
+		icon = GFX_goal_rise_of_the_renaissance_new_gfx_asset_4
+		x = 3
+		y = 0
+		cost = 5
+		completion_reward = {
+			add_stability = 0.05
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	focus = {
+		id = the_question_of_succession
+		icon = GFX_focus_CZE_bohemia_crown
+		x = 3
+		y = 1
+		cost = 5
+		prerequisite = { focus = the_conquest_of_naples }
+		completion_reward = {
+			add_political_power = 50
+			news_event = {
+				id = the_succession_answer.1
+				days = 1
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	focus = {
+		id = the_king_chooses_john
+		icon = GFX_goal_generic_construct_civ_factory
+		x = -1
+		y = 2
+		cost = 10
+		prerequisite = { focus = the_question_of_succession }
+		mutually_exclusive = { focus = a_split_succsession }
+		mutually_exclusive = { focus = the_king_chooses_ferdinand }
+		completion_reward = {
+			add_political_power = 50
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	focus = {
+		id = a_split_succsession
+		icon = GFX_goal_generic_construct_civ_factory
+		x = 3
+		y = 2
+		cost = 10
+		prerequisite = { focus = the_question_of_succession }
+		mutually_exclusive = { focus = the_king_chooses_john }
+		mutually_exclusive = { focus = the_king_chooses_ferdinand }
+		completion_reward = {
+			add_political_power = 50
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	focus = {
+		id = the_king_chooses_ferdinand
+		icon = GFX_goal_generic_construct_civ_factory
+		x = 7
+		y = 2
+		cost = 10
+		prerequisite = { focus = the_question_of_succession }
+		mutually_exclusive = { focus = the_king_chooses_john }
+		mutually_exclusive = { focus = a_split_succsession }
+		completion_reward = {
+			add_political_power = 50
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}
