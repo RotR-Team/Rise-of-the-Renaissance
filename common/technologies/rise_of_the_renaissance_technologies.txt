@@ -1,0 +1,13 @@
+technologies = {
+    rise_of_the_renaissance_tech_1 = {
+        research_cost = 2
+        start_year = 1936
+        folder = {
+            name = infantry_folder
+            position = { x = 0 y = 0 }
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+}

@@ -1,0 +1,11 @@
+state = {
+    id = 1096
+    name = STATE_1096
+    manpower = 100000
+    state_category = rural
+    history = {
+        owner = OTO
+        add_core_of = OTO
+    }
+    provinces = { 3979 6976 9868 9886 9954 11797 }
+}

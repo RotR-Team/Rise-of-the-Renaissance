@@ -1,0 +1,15 @@
+state = {
+    id = 1097
+    name = STATE_1097
+    manpower = 100000
+    state_category = rural
+    history = {
+        1450.1.1.12 = {
+         	owner = EMG
+        	add_core_of = EMG
+        	victory_points = { 12038 1 }
+        	victory_points = { 1176 3 }
+        }
+    }
+    provinces = { 747 1176 1192 4065 4095 7196 11956 12038 }
+}

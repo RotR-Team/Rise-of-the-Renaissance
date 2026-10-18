@@ -1,0 +1,22 @@
+state = {
+    id = 27
+    name = STATE_27
+    manpower = 1370800
+    state_category = city
+    resources = {
+        aluminium = 11
+    }
+    history = {
+        owner = NEV
+	add_core_of = NEV
+
+        buildings = {
+            infrastructure = 4
+            industrial_complex = 2
+            air_base = 2
+        }
+        add_core_of = FRA
+    }
+    provinces = {  3506 3681 3669 11628 }
+    local_supplies = 0.0
+}

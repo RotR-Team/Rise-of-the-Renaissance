@@ -1,0 +1,12 @@
+state = {
+    id = 1109
+    name = STATE_1109
+    manpower = 100000
+    state_category = rural
+    history = {
+        owner = MDM
+	add_core_of = MDM
+	add_core_of = FRA
+    }
+    provinces = { 6759 }
+}

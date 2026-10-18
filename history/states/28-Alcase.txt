@@ -1,0 +1,43 @@
+state = {
+    id = 28
+    name = STATE_28
+    manpower = 1915600
+    state_category = city
+    resources = {
+        steel = 42
+        coal = 5
+    }
+    history = {
+        owner = LOR
+        add_dynamic_modifier = {
+            modifier = FRA_maginot_line_dynamic_modifier
+        }
+     
+        victory_points = { 9559 10 }
+	victory_points = { 11516 5 }
+        buildings = {
+            infrastructure = 4
+            industrial_complex = 3
+            549 = {
+                bunker = 10
+            }
+            
+            3629 = {
+                bunker = 10
+            }
+            
+            
+            9559 = {
+                bunker = 10
+            }
+            11502 = {
+                bunker = 10
+            }
+            anti_air_building = 5
+            air_base = 5
+        }
+        add_core_of = LOR
+    }
+    provinces = { 549  1346 3629   9559 11502 11516 521}
+    local_supplies = 14.0
+}

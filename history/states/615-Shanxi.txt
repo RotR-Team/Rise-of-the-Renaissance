@@ -1,0 +1,25 @@
+state = {
+    id = 615
+    name = STATE_615
+    manpower = 11601000
+    resources = {
+        coal = 19
+    }
+    state_category = town
+    history = {
+        owner = MNG
+        victory_points = { 4174 5 }
+        victory_points = { 1180 1 }
+        buildings = {
+            infrastructure = 2
+            arms_factory = 2
+            industrial_complex = 2
+            4174 = {
+                bunker = 1
+            }
+        }
+        add_core_of = MNG
+    }
+    provinces = { 1034 1180 1519 1531 1575 4174 4538 4634 7571 10367 10421 12078 12344 }
+    local_supplies = 0.0
+}

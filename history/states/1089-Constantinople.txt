@@ -1,0 +1,11 @@
+state = {
+    id = 1089
+    name = STATE_1089
+    manpower = 100000
+    state_category = megalopolis
+    history = {
+        owner = BYZ
+        add_core_of = BYZ
+    }
+    provinces = { 9833 }
+}

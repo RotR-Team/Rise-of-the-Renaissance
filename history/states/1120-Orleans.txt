@@ -1,0 +1,13 @@
+state = {
+    id = 1120
+    name = STATE_1120
+    manpower = 100000
+    state_category = rural
+    history = {
+        owner = ORL
+	add_core_of = ORL
+
+	add_core_of = FRA
+    }
+    provinces = { 6688 6518 9644 }
+}

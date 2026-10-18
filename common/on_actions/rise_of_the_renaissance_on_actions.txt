@@ -1,0 +1,9 @@
+on_actions = {
+    on_monthly_AAA = {
+        effect = {
+            country_event = {
+                id = resourcesproduction.1
+            }
+        }
+    }
+ }

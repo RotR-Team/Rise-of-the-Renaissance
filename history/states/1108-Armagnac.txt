@@ -1,0 +1,12 @@
+state = {
+    id = 1108
+    name = STATE_1108
+    manpower = 100000
+    state_category = rural
+    history = {
+        owner = AGC
+	add_core_of = AGC
+	add_core_of = FRA
+    }
+    provinces = { 3740 929 }
+}

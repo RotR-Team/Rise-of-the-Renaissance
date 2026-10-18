@@ -1,0 +1,36 @@
+capital = 2
+
+if = { limit = { has_start_date = 1450.1.1.12 }
+set_research_slots = 3
+set_convoys = 0
+set_stability = 0.8
+set_war_support = 0.5
+set_politics = {
+    ruling_party = neutrality
+    elections_allowed = no
+}
+set_popularities = {
+    democratic = 0
+    fascism = 0
+    communism = 0
+    neutrality = 100
+}
+recruit_character = pap_character_1
+
+}
+if = { limit = { NOT = { OR = { has_start_date = 1450.1.1.12 } } } set_research_slots = 3
+set_convoys = 0
+set_stability = 0.8
+set_war_support = 0.5
+set_politics = {
+    ruling_party = neutrality
+    elections_allowed = no
+}
+set_popularities = {
+    democratic = 0
+    fascism = 0
+    communism = 0
+    neutrality = 100
+}
+recruit_character = pap_character_1
+ }

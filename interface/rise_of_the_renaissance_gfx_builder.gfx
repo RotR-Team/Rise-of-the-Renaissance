@@ -1,0 +1,94 @@
+spriteTypes = {
+    spriteType = {
+        name = GFX_goal_rise_of_the_renaissance_new_gfx_asset
+        texturefile = "gfx/interface/hmb_gfx/rise_of_the_renaissance/rise_of_the_renaissance_a526bbf82fec47d785c1ef3320f31270.dds"
+        legacy_lazy_load = no
+    }
+    spriteType = {
+        name = GFX_goal_rise_of_the_renaissance_new_gfx_asset_shine
+        texturefile = "gfx/interface/hmb_gfx/rise_of_the_renaissance/rise_of_the_renaissance_a526bbf82fec47d785c1ef3320f31270.dds"
+        effectFile = "gfx/FX/buttonstate.lua"
+        animation = {
+            animationmaskfile = "gfx/interface/hmb_gfx/rise_of_the_renaissance/rise_of_the_renaissance_a526bbf82fec47d785c1ef3320f31270.dds"
+            animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+            animationrotation = -90.0
+            animationlooping = no
+            animationtime = 0.75
+            animationdelay = 0
+            animationblendmode = "add"
+            animationtype = "scrolling"
+            animationrotationoffset = { x = 0.0 y = 0.0 }
+            animationtexturescale = { x = 1.0 y = 1.0 }
+        }
+        legacy_lazy_load = no
+    }
+    spriteType = {
+        name = GFX_goal_rise_of_the_renaissance_new_gfx_asset_2
+        texturefile = "gfx/interface/hmb_gfx/rise_of_the_renaissance/rise_of_the_renaissance_9d6211bf532c44e4abe191077d8809b7.dds"
+        legacy_lazy_load = no
+    }
+    spriteType = {
+        name = GFX_goal_rise_of_the_renaissance_new_gfx_asset_2_shine
+        texturefile = "gfx/interface/hmb_gfx/rise_of_the_renaissance/rise_of_the_renaissance_9d6211bf532c44e4abe191077d8809b7.dds"
+        effectFile = "gfx/FX/buttonstate.lua"
+        animation = {
+            animationmaskfile = "gfx/interface/hmb_gfx/rise_of_the_renaissance/rise_of_the_renaissance_9d6211bf532c44e4abe191077d8809b7.dds"
+            animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+            animationrotation = -90.0
+            animationlooping = no
+            animationtime = 0.75
+            animationdelay = 0
+            animationblendmode = "add"
+            animationtype = "scrolling"
+            animationrotationoffset = { x = 0.0 y = 0.0 }
+            animationtexturescale = { x = 1.0 y = 1.0 }
+        }
+        legacy_lazy_load = no
+    }
+    spriteType = {
+        name = GFX_goal_rise_of_the_renaissance_new_gfx_asset_3
+        texturefile = "gfx/interface/hmb_gfx/rise_of_the_renaissance/rise_of_the_renaissance_e7478b672bec49b6aec8f4e2ae21daac.dds"
+        legacy_lazy_load = no
+    }
+    spriteType = {
+        name = GFX_goal_rise_of_the_renaissance_new_gfx_asset_3_shine
+        texturefile = "gfx/interface/hmb_gfx/rise_of_the_renaissance/rise_of_the_renaissance_e7478b672bec49b6aec8f4e2ae21daac.dds"
+        effectFile = "gfx/FX/buttonstate.lua"
+        animation = {
+            animationmaskfile = "gfx/interface/hmb_gfx/rise_of_the_renaissance/rise_of_the_renaissance_e7478b672bec49b6aec8f4e2ae21daac.dds"
+            animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+            animationrotation = -90.0
+            animationlooping = no
+            animationtime = 0.75
+            animationdelay = 0
+            animationblendmode = "add"
+            animationtype = "scrolling"
+            animationrotationoffset = { x = 0.0 y = 0.0 }
+            animationtexturescale = { x = 1.0 y = 1.0 }
+        }
+        legacy_lazy_load = no
+    }
+    spriteType = {
+        name = GFX_goal_rise_of_the_renaissance_new_gfx_asset_4
+        texturefile = "gfx/interface/hmb_gfx/rise_of_the_renaissance/rise_of_the_renaissance_a81b62bbaac34b72bd74f798ad911d98.dds"
+        legacy_lazy_load = no
+    }
+    spriteType = {
+        name = GFX_goal_rise_of_the_renaissance_new_gfx_asset_4_shine
+        texturefile = "gfx/interface/hmb_gfx/rise_of_the_renaissance/rise_of_the_renaissance_a81b62bbaac34b72bd74f798ad911d98.dds"
+        effectFile = "gfx/FX/buttonstate.lua"
+        animation = {
+            animationmaskfile = "gfx/interface/hmb_gfx/rise_of_the_renaissance/rise_of_the_renaissance_a81b62bbaac34b72bd74f798ad911d98.dds"
+            animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+            animationrotation = -90.0
+            animationlooping = no
+            animationtime = 0.75
+            animationdelay = 0
+            animationblendmode = "add"
+            animationtype = "scrolling"
+            animationrotationoffset = { x = 0.0 y = 0.0 }
+            animationtexturescale = { x = 1.0 y = 1.0 }
+        }
+        legacy_lazy_load = no
+    }
+}

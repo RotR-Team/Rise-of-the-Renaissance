@@ -1,0 +1,12 @@
+state = {
+    id = 1107
+    name = STATE_1107
+    manpower = 100000
+    state_category = rural
+    history = {
+        owner = FOI
+	add_core_of = FOI
+	add_core_of = FRA
+    }
+    provinces = { 6931 6915 }
+}

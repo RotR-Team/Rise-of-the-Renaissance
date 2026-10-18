@@ -1,0 +1,63 @@
+bookmarks = {
+    bookmark = {
+        name = rise_of_the_renaissance_1_name
+        desc = rise_of_the_renaissance_1_desc
+        date = 1450.1.1.12
+        picture = "GFX_rise_of_the_renaissance_bookmark_rise_of_the_renaissance_1"
+        default_country = "ENG"
+        default = yes
+        filters = { new_content continent }
+        ENG = {
+            history = rise_of_the_renaissance_1_ENG_history
+            ideology = monarchy
+            version = base_game
+        }
+        ARA = {
+            history = rise_of_the_renaissance_1_ARA_history
+            ideology = monarchy
+            version = base_game
+        }
+        PAP = {
+            history = rise_of_the_renaissance_1_PAP_history
+            ideology = monarchy
+            version = base_game
+        }
+        BYZ = {
+            minor = yes
+            history = rise_of_the_renaissance_1_BYZ_history
+            ideology = monarchy
+            version = base_game
+        }
+        TTO = {
+            minor = yes
+            history = rise_of_the_renaissance_1_TTO_history
+            ideology = monarchy
+            version = base_game
+        }
+        MEG = {
+            minor = yes
+            history = rise_of_the_renaissance_1_MEG_history
+            ideology = monarchy
+            version = base_game
+        }
+        OTO = {
+            history = rise_of_the_renaissance_1_OTO_history
+            ideology = monarchy
+            version = base_game
+        }
+        MNG = {
+            history = rise_of_the_renaissance_1_MNG_history
+            ideology = monarchy
+            version = base_game
+        }
+        EMG = {
+           minor = yes
+           history = rise_of_the_renaissance_1_EMG_history
+           ideology = monarchy
+           version = base_game
+}
+        effect = {
+            randomize_weather = 12345
+        }
+    }
+}

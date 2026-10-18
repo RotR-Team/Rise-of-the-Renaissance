@@ -1,0 +1,17 @@
+state = {
+    id = 751
+    name = STATE_751
+    manpower = 300000
+    buildings_max_level_factor = 1.000
+    state_category = pastoral
+    history = {
+        owner = MNG
+        buildings = {
+            infrastructure = 1
+        }
+        victory_points = { 7294 1 }
+        add_core_of = MNG
+    }
+    provinces = { 2067 7294 10726 }
+    local_supplies = 1.0
+}

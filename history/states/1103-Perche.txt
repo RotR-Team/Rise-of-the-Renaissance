@@ -1,0 +1,12 @@
+state = {
+    id = 1103
+    name = STATE_1103
+    manpower = 100000
+    state_category = rural
+    history = {
+        owner = PEC
+	add_core_of = PEC
+	add_core_of = FRA
+    }
+    provinces = { 13417 }
+}

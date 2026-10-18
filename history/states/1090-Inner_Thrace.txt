@@ -1,0 +1,11 @@
+state = {
+    id = 1090
+    name = STATE_1090
+    manpower = 100000
+    state_category = rural
+    history = {
+        owner = BYZ
+        add_core_of = BYZ
+    }
+    provinces = { 922 9902 9919 }
+}

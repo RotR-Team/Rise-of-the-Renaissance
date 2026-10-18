@@ -1,0 +1,11 @@
+state = {
+    id = 1094
+    name = STATE_1094
+    manpower = 100000
+    state_category = rural
+    history = {
+        owner = MEG
+        add_core_of = MEG
+    }
+    provinces = { 1923 2033 5037 12883 }
+}

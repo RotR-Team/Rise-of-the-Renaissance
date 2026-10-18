@@ -1,0 +1,2 @@
+# Empty fallback for countries without a project tree.
+focus_tree = { id = hmb_selective_empty default = yes country = { factor = 0 } }

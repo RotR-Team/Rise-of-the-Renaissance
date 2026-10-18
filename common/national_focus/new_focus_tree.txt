@@ -1,0 +1,169 @@
+focus_tree = {
+    id = new_focus_tree
+    default = no
+    country = {
+        factor = 0
+        modifier = {
+            add = 1000
+            tag = ENG
+        }
+    }
+    continuous_focus_position = { x = 34 y = 942 }
+
+    focus = {
+        id = the_fighting_factions
+        icon = GFX_goal_rise_of_the_renaissance_new_gfx_asset
+        x = 2
+        y = -9
+        cost = 5
+        completion_reward = {
+            add_political_power = 50
+                                    white_peace = {
+                                    }
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+
+    focus = {
+        id = the_house_of_lancaster
+        icon = GFX_goal_rise_of_the_renaissance_new_gfx_asset_2
+        x = -2
+        y = -8
+        cost = 5
+        prerequisite = { focus = the_fighting_factions }
+        mutually_exclusive = { focus = the_house_of_york }
+        completion_reward = {
+            add_political_power = 50
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+
+    focus = {
+        id = the_house_of_york
+        icon = GFX_goal_rise_of_the_renaissance_new_gfx_asset_3
+        x = 6
+        y = -8
+        cost = 5
+        prerequisite = { focus = the_fighting_factions }
+        mutually_exclusive = { focus = the_house_of_lancaster }
+        completion_reward = {
+            add_political_power = 50
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+
+    focus = {
+        id = dismiss_queen_margaret_from_court
+        icon = GFX_focus_generic_court
+        x = 6
+        y = -7
+        cost = 5
+        prerequisite = { focus = the_house_of_york }
+        completion_reward = {
+            add_political_power = 50
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+
+    focus = {
+        id = surrender_normandy
+        icon = GFX_focus_generic_treaty
+        x = -2
+        y = -6
+        cost = 10
+        prerequisite = { focus = the_house_of_lancaster }
+        completion_reward = {
+            add_stability = 0.05
+                                    white_peace = FRA
+                                    15 = {
+                                           transfer_state_to = FRA
+                                    }
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+
+    focus = {
+        id = fight_for_normandy
+        icon = GFX_focus_attack_france
+        x = 6
+        y = -6
+        cost = 5
+        prerequisite = { focus = dismiss_queen_margaret_from_court }
+        completion_reward = {
+            add_political_power = 50
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+
+    focus = {
+        id = rise_of_the_renaissance_new_focus_tree_focus_7
+        icon = GFX_focus_generic_commonwealth_build_infantry
+        x = 13
+        y = -9
+        cost = 5
+        completion_reward = {
+            add_political_power = 50
+                                                army_experience = 50
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+
+    focus = {
+        id = rise_of_the_renaissance_new_focus_tree_focus_8
+        icon = GFX_goal_generic_construct_civ_factory
+        x = 11
+        y = -8
+        cost = 10
+        prerequisite = { focus = rise_of_the_renaissance_new_focus_tree_focus_7 }
+        completion_reward = {
+            add_political_power = 50
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+
+    focus = {
+        id = rise_of_the_renaissance_new_focus_tree_focus_9
+        icon = GFX_goal_generic_construct_civ_factory
+        x = 13
+        y = -8
+        cost = 5
+        prerequisite = { focus = rise_of_the_renaissance_new_focus_tree_focus_7 }
+        completion_reward = {
+            add_political_power = 50
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+
+    focus = {
+        id = rise_of_the_renaissance_new_focus_tree_focus_10
+        icon = GFX_goal_generic_construct_civ_factory
+        x = 15
+        y = -8
+        cost = 10
+        prerequisite = { focus = rise_of_the_renaissance_new_focus_tree_focus_7 }
+        completion_reward = {
+            add_political_power = 50
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+}

@@ -1,0 +1,16 @@
+state = {
+    id = 554
+    name = STATE_554
+    manpower = 547797
+    state_category = rural
+    history = {
+        owner = MEG
+        buildings = {
+            infrastructure = 2
+            air_base = 1
+        }
+        add_core_of = SYR
+    }
+    provinces = { 2013 901 1634 }
+    local_supplies = 2.0
+}

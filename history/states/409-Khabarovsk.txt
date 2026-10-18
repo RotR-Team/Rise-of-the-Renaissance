@@ -1,0 +1,25 @@
+state = {
+    id = 409
+    name = STATE_409
+    manpower = 295605
+    resources = {
+        chromium = 9
+    }
+    state_category = rural
+    history = {
+        owner = SOV
+        buildings = {
+            infrastructure = 2
+            industrial_complex = 1
+            air_base = 4
+            9604 = {
+                naval_base = 1
+            }
+        }
+        add_core_of = SOV
+        add_core_of = FER
+        add_core_of = VLA
+    }
+    provinces = { 1267 1325 1343 1397 4404 4841 7249 7309 7868 9589 9604 9733 9749 12136 }
+    local_supplies = 0.0
+}
