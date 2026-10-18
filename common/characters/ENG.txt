@@ -1,0 +1,35 @@
+characters = {
+	eng_character_1 = {
+		name = eng_character_1
+		portraits = {
+			civilian = {
+				large = GFX_portrait_rise_of_the_renaissance_eng_character_1
+				small = GFX_idea_rise_of_the_renaissance_eng_character_1
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			expire = "1965.1.1"
+			id = -1
+		}
+	}
+	eng_character_2 = {
+		name = eng_character_2
+		portraits = {
+			civilian = {
+				large = GFX_portrait_rise_of_the_renaissance_eng_character_2
+				small = GFX_idea_rise_of_the_renaissance_eng_character_2
+			}
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = eng_character_2
+			cost = 150
+			allowed = {
+				original_tag = ENG
+				has_completed_focus = the_house_of_york
+			}
+			traits = { fascist_demagogue }
+		}
+	}
+}

@@ -1,184 +1,151 @@
 characters = {
-    eng_character_1 = {
-        name = eng_character_1
-        portraits = {
-            civilian = {
-                large = GFX_portrait_rise_of_the_renaissance_eng_character_1
-                small = GFX_idea_rise_of_the_renaissance_eng_character_1
-            }
-        }
-        country_leader = {
-            ideology = centrism
-            expire = "1965.1.1"
-            id = -1
-        }
-    }
-    eng_character_2 = {
-        name = eng_character_2
-        portraits = {
-            civilian = {
-                large = GFX_portrait_rise_of_the_renaissance_eng_character_2
-                small = GFX_idea_rise_of_the_renaissance_eng_character_2
-            }
-        }
-        advisor = {
-            slot = political_advisor
-            idea_token = eng_character_2
-            cost = 150
-            allowed = {
-                original_tag = ENG
-                has_completed_focus = the_house_of_york
-            }
-            traits = { fascist_demagogue }
-        }
-    }
-    sco_character_1 = {
-        name = sco_character_1
-        portraits = {
-            civilian = {
-                large = GFX_portrait_rise_of_the_renaissance_sco_character_1
-                small = GFX_idea_rise_of_the_renaissance_sco_character_1
-            }
-        }
-        country_leader = {
-            ideology = centrism
-            expire = "1965.1.1"
-            id = -1
-        }
-    }
-    ara_character_1 = {
-        name = ara_character_1
-        portraits = {
-            civilian = {
-                large = GFX_portrait_rise_of_the_renaissance_ara_character_1
-                small = GFX_idea_rise_of_the_renaissance_ara_character_1
-            }
-        }
-        country_leader = {
-            ideology = centrism
-            traits = { savior_of_naples }
-            expire = "1965.1.1"
-            id = -1
-        }
-        corps_commander = {
-            skill = 3
-            attack_skill = 3
-            defense_skill = 3
-            planning_skill = 3
-            logistics_skill = 3
-            legacy_id = -1
-        }
-    }
-    pap_character_1 = {
-        name = pap_character_1
-        portraits = {
-            civilian = {
-                large = GFX_portrait_rise_of_the_renaissance_pap_character_1
-                small = GFX_idea_rise_of_the_renaissance_pap_character_1
-            }
-        }
-        country_leader = {
-            ideology = centrism
-            expire = "1965.1.1"
-            id = -1
-        }
-    }
-    byz_character_1 = {
-        name = byz_character_1
-        portraits = {
-            civilian = {
-                large = GFX_portrait_rise_of_the_renaissance_byz_character_1
-                small = GFX_idea_rise_of_the_renaissance_byz_character_1
-            }
-        }
-        country_leader = {
-            ideology = centrism
-            expire = "1965.1.1"
-            id = -1
-        }
-    }
-    tto_character_1 = {
-        name = tto_character_1
-        portraits = {
-            civilian = {
-                large = GFX_portrait_rise_of_the_renaissance_tto_character_1
-                small = GFX_idea_rise_of_the_renaissance_tto_character_1
-            }
-        }
-        country_leader = {
-            ideology = centrism
-            expire = "1965.1.1"
-            id = -1
-        }
-    }
-    meg_character_1 = {
-        name = meg_character_1
-        portraits = {
-            civilian = {
-                large = GFX_portrait_rise_of_the_renaissance_meg_character_1
-                small = GFX_idea_rise_of_the_renaissance_meg_character_1
-            }
-        }
-        country_leader = {
-            ideology = centrism
-            expire = "1965.1.1"
-            id = -1
-        }
-    }
-    oto_character_1 = {
-        name = oto_character_1
-        portraits = {
-            civilian = {
-                large = GFX_portrait_rise_of_the_renaissance_oto_character_1
-                small = GFX_idea_rise_of_the_renaissance_oto_character_1
-            }
-        }
-        country_leader = {
-            ideology = centrism
-            expire = "1965.1.1"
-            id = -1
-        }
-    }
-    mng_character_1 = {
-        name = mng_character_1
-        portraits = {
-            civilian = {
-                large = GFX_portrait_rise_of_the_renaissance_mng_character_1
-                small = GFX_idea_rise_of_the_renaissance_mng_character_1
-            }
-        }
-        country_leader = {
-            ideology = centrism
-            expire = "1965.1.1"
-            id = -1
-        }
-    }
-    cst_character_1 = {
-        name = cst_character_1
-        portraits = {
-            civilian = {
-                large = GFX_portrait_rise_of_the_renaissance_cst_character_1
-                small = GFX_idea_rise_of_the_renaissance_cst_character_1
-            }
-        }
-        country_leader = {
-            ideology = centrism
-            expire = "1965.1.1"
-            id = -1
-        }
-    }
-    emg_character_1 = {
-        name = emg_character_1
-        portraits = {
-            civilian = {
-                large = GFX_portrait_rise_of_the_renaissance_emg_character_1
-                small = GFX_idea_rise_of_the_renaissance_emg_character_1
-            }
-        }
-        country_leader = {
-            ideology = centrism
-            expire = "1965.1.1"
-            id = -1
-        }
-    }
+	sco_character_1 = {
+		name = sco_character_1
+		portraits = {
+			civilian = {
+				large = GFX_portrait_rise_of_the_renaissance_sco_character_1
+				small = GFX_idea_rise_of_the_renaissance_sco_character_1
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			expire = "1965.1.1"
+			id = -1
+		}
+	}
+	ara_character_1 = {
+		name = ara_character_1
+		portraits = {
+			civilian = {
+				large = GFX_portrait_rise_of_the_renaissance_ara_character_1
+				small = GFX_idea_rise_of_the_renaissance_ara_character_1
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			traits = { savior_of_naples }
+			expire = "1965.1.1"
+			id = -1
+		}
+		corps_commander = {
+			skill = 3
+			attack_skill = 3
+			defense_skill = 3
+			planning_skill = 3
+			logistics_skill = 3
+			legacy_id = -1
+		}
+	}
+	pap_character_1 = {
+		name = pap_character_1
+		portraits = {
+			civilian = {
+				large = GFX_portrait_rise_of_the_renaissance_pap_character_1
+				small = GFX_idea_rise_of_the_renaissance_pap_character_1
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			expire = "1965.1.1"
+			id = -1
+		}
+	}
+	byz_character_1 = {
+		name = byz_character_1
+		portraits = {
+			civilian = {
+				large = GFX_portrait_rise_of_the_renaissance_byz_character_1
+				small = GFX_idea_rise_of_the_renaissance_byz_character_1
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			expire = "1965.1.1"
+			id = -1
+		}
+	}
+	tto_character_1 = {
+		name = tto_character_1
+		portraits = {
+			civilian = {
+				large = GFX_portrait_rise_of_the_renaissance_tto_character_1
+				small = GFX_idea_rise_of_the_renaissance_tto_character_1
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			expire = "1965.1.1"
+			id = -1
+		}
+	}
+	meg_character_1 = {
+		name = meg_character_1
+		portraits = {
+			civilian = {
+				large = GFX_portrait_rise_of_the_renaissance_meg_character_1
+				small = GFX_idea_rise_of_the_renaissance_meg_character_1
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			expire = "1965.1.1"
+			id = -1
+		}
+	}
+	oto_character_1 = {
+		name = oto_character_1
+		portraits = {
+			civilian = {
+				large = GFX_portrait_rise_of_the_renaissance_oto_character_1
+				small = GFX_idea_rise_of_the_renaissance_oto_character_1
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			expire = "1965.1.1"
+			id = -1
+		}
+	}
+	mng_character_1 = {
+		name = mng_character_1
+		portraits = {
+			civilian = {
+				large = GFX_portrait_rise_of_the_renaissance_mng_character_1
+				small = GFX_idea_rise_of_the_renaissance_mng_character_1
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			expire = "1965.1.1"
+			id = -1
+		}
+	}
+	cst_character_1 = {
+		name = cst_character_1
+		portraits = {
+			civilian = {
+				large = GFX_portrait_rise_of_the_renaissance_cst_character_1
+				small = GFX_idea_rise_of_the_renaissance_cst_character_1
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			expire = "1965.1.1"
+			id = -1
+		}
+	}
+	emg_character_1 = {
+		name = emg_character_1
+		portraits = {
+			civilian = {
+				large = GFX_portrait_rise_of_the_renaissance_emg_character_1
+				small = GFX_idea_rise_of_the_renaissance_emg_character_1
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			expire = "1965.1.1"
+			id = -1
+		}
+	}
 }
