@@ -1,5 +1,5 @@
 ideologies = {
-    republicans = {
+    democratic = {
         types = {
             conservatism = {
             }
@@ -45,7 +45,7 @@ ideologies = {
         ai_ideology_wanted_units_factor = 1.10
         ai_give_core_state_control_threshold = 0
     }
-    opposing_houses = {
+    fascism = {
         types = {
             n = {
             }
@@ -84,7 +84,7 @@ ideologies = {
         ai_ideology_wanted_units_factor = 1.65
         ai_give_core_state_control_threshold = 10000
     }
-    revolutinarys = {
+    communism = {
         types = {
             marxism = {
             }
@@ -127,7 +127,7 @@ ideologies = {
         }
         ai_give_core_state_control_threshold = 10
     }
-    monarchy = {
+    neutrality = {
         types = {
             centrism = {
             }

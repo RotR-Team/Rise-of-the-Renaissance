@@ -17,8 +17,8 @@ set_popularities = {
     fascism = 0
     communism = 0
     neutrality = 100
-    republicans = 0
-    opposing_houses = 0
-    revolutinarys = 0
-    monarchy = 0
+    democratic = 0
+    fascism = 0
+    communism = 0
+    neutrality = 0
 }
