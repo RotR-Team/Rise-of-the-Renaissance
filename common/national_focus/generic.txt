@@ -16,7 +16,7 @@ search_filter_prios = {
 }
 
 focus_tree = {
-	default = no
+	default = yes
 	country = { factor = 0 }
 
 	id = generic_focus
