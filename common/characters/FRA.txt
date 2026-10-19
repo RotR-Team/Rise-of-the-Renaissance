@@ -1,0 +1,16 @@
+characters = {
+	FRA_charles_vii = {
+		name = FRA_charles_vii
+		portraits = {
+			civilian = {
+				large = GFX_rotr_portrait_FRA_charles_vii
+				#small = GFX_rotr_portrait_FRA_charles_vii_small
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = 1461.7.22
+			id = -1
+		}
+	}
+}

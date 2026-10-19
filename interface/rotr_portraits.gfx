@@ -1,6 +1,14 @@
 spriteTypes = {
 
 	spriteType = {
+		name = GFX_rotr_portrait_FRA_charles_vii
+		texturefile = "gfx/leaders/FRA/FRA_charles_vii.dds"
+	}
+
+	################################################################################################################################################################
+	######## UNSORTED ########
+	################################################################################################################################################################
+	spriteType = {
 		name = GFX_portrait_rise_of_the_renaissance_eng_character_1
 		texturefile = "gfx/leaders/rise_of_the_renaissance/rise_of_the_renaissance_eng_character_1_large.dds"
 	}
