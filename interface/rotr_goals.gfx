@@ -1,22 +1,21 @@
 spriteTypes = {
+	# ARA
 	spriteType = {
-		name = GFX_goal_rise_of_the_renaissance_the_conquest_of_naples
-		texturefile = "gfx/interface/goals/rise_of_the_renaissance/rise_of_the_renaissance_the_conquest_of_naples.dds"
+		name = GFX_rotr_goal_ARA_conquest_of_naples
+		texturefile = "gfx/interface/goals/ara/rotr_goal_ARA_conquest_of_naples.dds"
+	}
+
+	# ENG
+	spriteType = {
+		name = GFX_rotr_goal_ENG_fighting_factions
+		texturefile = "gfx/interface/goals/eng/rotr_goal_ENG_fighting_factions.dds"
 	}
 	spriteType = {
-		name = GFX_goal_rise_of_the_renaissance_new_gfx_asset
-		texturefile = "gfx/interface/hmb_gfx/rise_of_the_renaissance/rise_of_the_renaissance_a526bbf82fec47d785c1ef3320f31270.dds"
+		name = GFX_rotr_goal_ENG_house_of_lancaster
+		texturefile = "gfx/interface/goals/eng/rotr_goal_ENG_house_of_lancaster.dds"
 	}
 	spriteType = {
-		name = GFX_goal_rise_of_the_renaissance_new_gfx_asset_2
-		texturefile = "gfx/interface/hmb_gfx/rise_of_the_renaissance/rise_of_the_renaissance_9d6211bf532c44e4abe191077d8809b7.dds"
-	}
-	spriteType = {
-		name = GFX_goal_rise_of_the_renaissance_new_gfx_asset_3
-		texturefile = "gfx/interface/hmb_gfx/rise_of_the_renaissance/rise_of_the_renaissance_e7478b672bec49b6aec8f4e2ae21daac.dds"
-	}
-	spriteType = {
-		name = GFX_goal_rise_of_the_renaissance_new_gfx_asset_4
-		texturefile = "gfx/interface/hmb_gfx/rise_of_the_renaissance/rise_of_the_renaissance_a81b62bbaac34b72bd74f798ad911d98.dds"
+		name = GFX_rotr_goal_ENG_house_of_york
+		texturefile = "gfx/interface/goals/eng/rotr_goal_ENG_house_of_york.dds"
 	}
 }

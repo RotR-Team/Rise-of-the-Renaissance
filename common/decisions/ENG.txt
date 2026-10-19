@@ -1,0 +1,34 @@
+operations = {
+
+	ENG_withdrawl_from_normandy = {
+
+		allowed = {
+			original_tag = ENG
+		}
+
+		visible = {
+			controls_state = 15
+		}
+
+		highlight_states = {
+			highlight_state_targets = {
+				state = 15
+			}
+		}
+
+		custom_cost_trigger = {
+			command_power > 24
+			has_political_power > 14
+		}
+
+		custom_cost_text = decision_cost_CP_25_pp_15
+
+		days_remove = 180
+		
+		complete_effect = {
+			15 = {
+				transfer_state_to = FRA
+			}
+		}
+	}
+}
