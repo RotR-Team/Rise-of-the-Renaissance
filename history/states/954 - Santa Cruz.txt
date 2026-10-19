@@ -8,7 +8,7 @@ state = {
         coal = 2
     }
     history = {
-        owner = ARG
+        owner = AAA
         add_core_of = ARG
         add_core_of = WLA
         buildings = {

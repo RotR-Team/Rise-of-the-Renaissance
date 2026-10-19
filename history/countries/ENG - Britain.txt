@@ -25,7 +25,7 @@ set_technology = {
 }
 
 }
-1450.1.1.12 = { if = { limit = { has_start_date = 1450.1.1.12 } declare_war_on = {
+1450.1.1 = { if = { limit = { has_start_date = 1450.1.1.12 } declare_war_on = {
     target = FRA
     type = annex_everything
 }

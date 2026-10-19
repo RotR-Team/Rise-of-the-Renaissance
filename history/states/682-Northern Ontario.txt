@@ -9,7 +9,7 @@ state = {
         coal = 2
     }
     history = {
-        owner = CAN
+        owner = AAA
         add_core_of = CAN
         buildings = {
             infrastructure = 3

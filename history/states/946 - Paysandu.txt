@@ -7,7 +7,7 @@ state = {
         oil = 3
     }
     history = {
-        owner = URG
+        owner = AAA
         add_core_of = URG
         buildings = {
             infrastructure = 1

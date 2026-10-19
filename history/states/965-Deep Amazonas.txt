@@ -3,7 +3,7 @@ state = {
     name = STATE_965
     provinces = { 2147 5232 }
     history = {
-        owner = BRA
+        owner = AAA
         add_core_of = BRA
     }
     manpower = 21987

@@ -5,7 +5,7 @@ state = {
         aluminium = 7.000
     }
     history = {
-        owner = CAN
+        owner = AAA
         buildings = {
             infrastructure = 1
         }

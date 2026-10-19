@@ -8,7 +8,7 @@ state = {
         steel = 2
     }
     history = {
-        owner = ARG
+        owner = AAA
         add_core_of = ARG
         add_claim_by = BOL
         add_claim_by = PAR

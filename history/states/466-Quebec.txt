@@ -6,7 +6,7 @@ state = {
         aluminium = 4.000
     }
     history = {
-        owner = CAN
+        owner = AAA
         add_core_of = CAN
         add_core_of = QUE
         buildings = {

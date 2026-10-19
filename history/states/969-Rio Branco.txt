@@ -3,7 +3,7 @@ state = {
     name = STATE_969
     provinces = { 5214 13340 13361 }
     history = {
-        owner = BRA
+        owner = AAA
         add_core_of = BRA
         victory_points = { 5214 1 }
     }

@@ -7,7 +7,7 @@ state = {
         oil = 8
     }
     history = {
-        owner = MEX
+        owner = AAA
         buildings = {
             infrastructure = 2
             air_base = 2

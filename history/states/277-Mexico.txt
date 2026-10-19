@@ -7,7 +7,7 @@ state = {
         steel = 6
     }
     history = {
-        owner = MEX
+        owner = AAA
         buildings = {
             infrastructure = 3
             arms_factory = 2

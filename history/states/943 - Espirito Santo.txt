@@ -7,7 +7,7 @@ state = {
         steel = 1
     }
     history = {
-        owner = BRA
+        owner = AAA
         add_core_of = BRA
         victory_points = { 10999 5 }
         buildings = {

@@ -8,7 +8,7 @@ state = {
     }
     state_category = town
     history = {
-        owner = CAN
+        owner = AAA
         buildings = {
             infrastructure = 3
             arms_factory = 1

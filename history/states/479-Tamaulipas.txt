@@ -7,7 +7,7 @@ state = {
         oil = 9
     }
     history = {
-        owner = MEX
+        owner = AAA
         add_core_of = MEX
         add_core_of = RIG
         buildings = {

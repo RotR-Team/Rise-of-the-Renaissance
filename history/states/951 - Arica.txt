@@ -7,7 +7,7 @@ state = {
         tungsten = 14
     }
     history = {
-        owner = CHL
+        owner = AAA
         add_core_of = CHL
         add_claim_by = PRU
         buildings = {

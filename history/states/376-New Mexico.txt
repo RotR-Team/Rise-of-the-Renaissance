@@ -9,7 +9,7 @@ state = {
         coal = 5
     }
     history = {
-        owner = USA
+        owner = AAA
         buildings = {
             infrastructure = 2
             industrial_complex = 1

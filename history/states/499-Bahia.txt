@@ -7,7 +7,7 @@ state = {
         chromium = 3
     }
     history = {
-        owner = BRA
+        owner = AAA
         buildings = {
             infrastructure = 2
             industrial_complex = 2

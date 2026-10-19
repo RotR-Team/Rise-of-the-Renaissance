@@ -4,7 +4,7 @@ state = {
     manpower = 213160
     state_category = pastoral
     history = {
-        owner = COL
+        owner = AAA
         buildings = {
             infrastructure = 1
         }

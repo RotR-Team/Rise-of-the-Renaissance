@@ -8,7 +8,7 @@ state = {
         coal = 1
     }
     history = {
-        owner = CHL
+        owner = AAA
         add_core_of = CHL
         add_claim_by = BOL
         buildings = {

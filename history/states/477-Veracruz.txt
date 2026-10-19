@@ -7,7 +7,7 @@ state = {
         oil = 9
     }
     history = {
-        owner = MEX
+        owner = AAA
         buildings = {
             infrastructure = 2
             dockyard = 1

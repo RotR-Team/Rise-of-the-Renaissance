@@ -8,7 +8,7 @@ state = {
         steel = 2
     }
     history = {
-        owner = PAR
+        owner = AAA
         add_core_of = PAR
         add_core_of = BOL
         buildings = {

@@ -9,7 +9,7 @@ state = {
         tungsten = 18
     }
     history = {
-        owner = USA
+        owner = AAA
         buildings = {
             infrastructure = 2
         }
