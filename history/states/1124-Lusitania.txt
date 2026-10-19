@@ -1,0 +1,20 @@
+state = {
+	id = 1124
+	name="STATE_1124"
+	manpower = 500000
+	state_category = rural
+
+	history = {
+		owner = LUS
+		add_core_of = LUS
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		3514 9535 11415
+	}
+
+	local_supplies = 1
+}
