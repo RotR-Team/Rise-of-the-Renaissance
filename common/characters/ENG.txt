@@ -1,14 +1,19 @@
 characters = {
-	eng_character_1 = {
-		name = eng_character_1
+	ENG_henry_vi = {
+		name = ENG_henry_vi
 		portraits = {
 			civilian = {
-				large = GFX_portrait_rise_of_the_renaissance_eng_character_1
-				small = GFX_idea_rise_of_the_renaissance_eng_character_1
+				large = GFX_rotr_portrait_ENG_henry_vi
+				#small = GFX_rotr_portrait_ENG_henry_vi_small
 			}
 		}
 		country_leader = {
-			ideology = centrism
+			ideology = conservatism
+			expire = "1965.1.1"
+			id = -1
+		}
+		country_leader = {
+			ideology = despotism
 			expire = "1965.1.1"
 			id = -1
 		}

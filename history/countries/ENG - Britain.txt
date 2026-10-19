@@ -1,60 +1,26 @@
-capital = 1087
+capital = 1085
 
-if = { limit = { has_start_date = 1450.1.1 }
-set_oob = ENG_1936
-set_research_slots = 4
-set_convoys = 0
-set_stability = 0.3
-set_war_support = 0.25
+oob = ENG_1450
+
+recruit_character = ENG_henry_vi
+
 set_politics = {
-	ruling_party = neutrality
-	elections_allowed = no
-}
-set_popularities = {
-	democratic = 0
-	fascism = 30
-	communism = 0
-	neutrality = 70
-}
-recruit_character = eng_character_1
-recruit_character = eng_character_2
-add_ideas = all_adults_serve
-add_ideas = war_economy
-set_technology = {
-	infantry_weapons = 1
+	ruling_party = democratic
+	elections_allowed = yes
 }
 
-}
-1450.1.1 = { if = { limit = { has_start_date = 1450.1.1 } declare_war_on = {
-	target = FRA
-	type = annex_everything
-}
- } }
-if = { limit = { NOT = { OR = { has_start_date = 1450.1.1 } } } set_oob = ENG_1936
-set_research_slots = 4
-set_convoys = 0
-set_stability = 0.3
-set_war_support = 0.25
-set_politics = {
-	ruling_party = neutrality
-	elections_allowed = no
-}
 set_popularities = {
-	democratic = 0
-	fascism = 30
-	communism = 0
-	neutrality = 70
+	democratic = 75
+	fascism = 0
+	communism = 5
+	neutrality = 20
 }
-recruit_character = eng_character_1
-recruit_character = eng_character_2
-add_ideas = all_adults_serve
-add_ideas = war_economy
-set_technology = {
-	infantry_weapons = 1
+
+set_autonomy = {
+	target = ALN
+	autonomy_state = autonomy_puppet
 }
- }
-1450.1.1 = { if = { limit = { NOT = { OR = { has_start_date = 1450.1.1 } } } declare_war_on = {
-	target = FRA
-	type = annex_everything
+set_autonomy = {
+	target = PEC
+	autonomy_state = autonomy_puppet
 }
- } }

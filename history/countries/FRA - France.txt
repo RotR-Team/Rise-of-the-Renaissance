@@ -13,3 +13,24 @@ set_popularities = {
 	communism = 25
 	neutrality = 65
 }
+
+set_autonomy = {
+	target = ORL
+	autonomy_state = autonomy_puppet
+}
+set_autonomy = {
+	target = BOR
+	autonomy_state = autonomy_puppet
+}
+set_autonomy = {
+	target = AUV
+	autonomy_state = autonomy_puppet
+}
+set_autonomy = {
+	target = FRZ
+	autonomy_state = autonomy_puppet
+}
+set_autonomy = {
+	target = SNC
+	autonomy_state = autonomy_puppet
+}
