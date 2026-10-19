@@ -1,1 +1,0 @@
-spriteTypes = { spriteType = { name = GFX_hmb_menu_watermark texturefile = "gfx/interface/hmb_menu_watermark.dds" noOfFrames = 1 } }
