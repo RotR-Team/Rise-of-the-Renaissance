@@ -435,6 +435,7 @@ EMG = "countries/EMG - Emirate Of Granada.txt"
 
 CST = "countries/WestEurope.txt"
 MIL = "countries/WestEurope.txt"
-
+BND = "countries/WestEurope.txt"
+PMR = "countries/WestEurope.txt"
 
 AAA = "countries/AAA - Uncontacted Tribes.txt"

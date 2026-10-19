@@ -112,8 +112,8 @@ IRE = {
 	color_ui = rgb { 104 207 117 }
 }
 HUN = {
-	color = rgb { 249 126 98 }
-	color_ui = rgb { 255 164 127 }
+	color = rgb { 185 146 151 }
+	color_ui = rgb { 185 146 151 }
 }
 AFG = {
 	color = rgb { 64 160 167 }
@@ -304,8 +304,8 @@ RAJ = {
 	color_ui = rgb { 226 135 40 }
 }
 CRO = {
-	color = rgb { 230 70 180 }
-	color_ui = rgb { 230 255 122 }
+	color = rgb { 135 127 226 }
+	color_ui = rgb { 135 127 226 }
 }
 PRC = {
 	color = rgb { 245 12 55 }
@@ -1413,4 +1413,14 @@ AGC = {
 MIL = {
 	color = rgb { 185 147 172 }
 	color_ui = rgb { 185 147 172 }
+}
+
+BND = {
+	color = rgb { 159 135 135 }
+	color_ui = rgb { 159 135 135 }
+}
+
+PMR = {
+	color = rgb { 115 169 119 }
+	color_ui = rgb { 115 169 119 }
 }

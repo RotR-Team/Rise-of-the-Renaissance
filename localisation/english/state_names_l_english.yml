@@ -1328,3 +1328,9 @@
  STATE_1095: "Central Mesopotamia"
  STATE_1096: "Erzincan"
  STATE_1097: "Almeria"
+
+ STATE_1121: "Bihor"
+ HUN_STATE_1121: "Bihar"
+ STATE_1122: "Sătmar"
+ HUN_STATE_1122: "Szatmár"
+ STATE_1123: "Neumark"
