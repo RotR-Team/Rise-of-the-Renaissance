@@ -433,5 +433,8 @@ OTO = "countries/OTO - The Ottoman Empire.txt"
 MNG = "countries/MNG - Ming Empire.txt"
 EMG = "countries/EMG - Emirate Of Granada.txt"
 
+CST = "countries/WestEurope.txt"
+MIL = "countries/WestEurope.txt"
+
 
 AAA = "countries/AAA - Uncontacted Tribes.txt"
