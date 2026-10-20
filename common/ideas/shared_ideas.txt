@@ -1,0 +1,36 @@
+ideas = {
+    country = {
+        shared_kalmar_union = {
+            allowed = {
+                tag = DEN
+                tag = NOR
+                tag = SWE
+            }
+
+            picture = kalmar_union_flag
+
+            modifier = {
+                political_power_cost = 0.1
+                army_core_attack_factor = 0.05
+                army_core_defence_factor = 0.05
+            }
+        }
+        tribe_idea = {
+            allowed = {
+                tag = AAA
+            }
+
+            picture = tribes_picture
+
+            modifier = {
+                political_power_cost = 10
+                enemy_justify_war_goal_time = 50
+                justify_war_goal_time = 50
+                production_factory_max_efficiency_factor = -1
+                production_speed_buildings_factor = -50
+                consumer_goods_factor = 5
+                industrial_capacity_factory = -1.5
+            }
+        }
+    }
+}
