@@ -15,7 +15,6 @@ state = {
                 naval_base = 2
             }
         }
-        add_core_of = MEX
         victory_points = { 10889 1 }
         victory_points = { 2021 3 }
     }

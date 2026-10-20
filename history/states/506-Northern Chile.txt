@@ -9,7 +9,6 @@ state = {
     }
     history = {
         owner = AAA
-        add_core_of = CHL
         add_claim_by = BOL
         buildings = {
             infrastructure = 3

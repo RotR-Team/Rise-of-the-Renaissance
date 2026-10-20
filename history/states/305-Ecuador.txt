@@ -8,7 +8,6 @@ state = {
     state_category = city
     history = {
         owner = AAA
-        add_core_of = ECU
         buildings = {
             infrastructure = 2
             arms_factory = 1

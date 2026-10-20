@@ -9,7 +9,6 @@ state = {
     }
     history = {
         owner = AAA
-        add_core_of = CHL
         buildings = {
             infrastructure = 1
             dockyard = 1

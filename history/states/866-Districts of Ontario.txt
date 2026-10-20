@@ -5,7 +5,6 @@ state = {
     provinces = { 761 763 3736 4753 13315 }
     history = {
         owner = AAA
-        add_core_of = CAN
         buildings = {
             infrastructure = 1
         }

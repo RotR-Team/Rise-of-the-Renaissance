@@ -4,7 +4,6 @@ state = {
     provinces = { 10960 12965 }
     history = {
         owner = AAA
-        add_core_of = BRA
     }
     manpower = 7683
     impassable = yes

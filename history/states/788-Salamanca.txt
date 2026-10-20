@@ -5,12 +5,12 @@ state = {
         tungsten = 10.000
     }
     history = {
-        owner = SPR
+        owner = CST
         victory_points = { 3874 1 }
         buildings = {
             infrastructure = 3
         }
-        add_core_of = SPR
+        add_core_of = CST
         
     }
     provinces = { 794 874 3874 6867 9770 13221 }
