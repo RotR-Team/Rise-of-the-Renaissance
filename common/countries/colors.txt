@@ -672,8 +672,8 @@ BAY = {
 	color_ui = rgb { 233 231 246 }
 }
 MEK = {
-	color = rgb { 186 245 86 }
-	color_ui = rgb { 186 245 86 }
+	color = rgb { 109 170 173 }
+	color_ui = rgb { 109 170 173 }
 }
 PRE = {
 	color = rgb { 160 160 160 }
@@ -1426,6 +1426,16 @@ PMR = {
 }
 
 LUS = {
-	color = rgb { 147 147 147 }
-	color_ui = rgb { 147 147 147 }
+	color = rgb { 69 111 185 }
+	color_ui = rgb { 69 111 185 }
+}
+
+SCH = {
+	color = rgb { 222 172 41 }
+	color_ui = rgb { 222 172 41 }
+}
+
+HLS = {
+	color = rgb { 212 165 171 }
+	color_ui = rgb { 212 165 171 }
 }

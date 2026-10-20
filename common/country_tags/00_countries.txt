@@ -437,6 +437,8 @@ CST = "countries/WestEurope.txt"
 MIL = "countries/WestEurope.txt"
 BND = "countries/WestEurope.txt"
 PMR = "countries/WestEurope.txt"
+SCH = "countries/WestEurope.txt"
+HLS = "countries/WestEurope.txt"
 LUS = "countries/EastEurope.txt"
 
 AAA = "countries/AAA - Uncontacted Tribes.txt"
