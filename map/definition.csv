@@ -13418,3 +13418,6 @@
 13417;155;4;50;land;false;plains;1
 13418;30;2;25;land;false;plains;1
 13419;255;4;5;land;false;plains;1
+13420;100;150;168;land;true;forest;1
+13421;102;137;19;land;false;forest;1
+13422;137;102;70;land;false;plains;1

@@ -12,7 +12,7 @@ focus_tree = {
 
 	focus = {
 		id = the_conquest_of_naples
-		icon = GFX_goal_rise_of_the_renaissance_new_gfx_asset_4
+		icon = GFX_rotr_goal_ARA_conquest_of_naples
 		x = 3
 		y = 0
 		cost = 5
