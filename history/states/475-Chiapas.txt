@@ -8,7 +8,6 @@ state = {
         buildings = {
             infrastructure = 2
         }
-        add_core_of = MEX
         victory_points = { 1900 3 }
     }
     provinces = { 1900 12753 12867 }

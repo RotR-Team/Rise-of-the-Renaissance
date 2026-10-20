@@ -2,7 +2,7 @@ state = {
     id = 790
     name = STATE_790
     history = {
-        owner = SPR
+        owner = CST
         victory_points = { 11707 3 }
         buildings = {
             infrastructure = 3
@@ -12,7 +12,7 @@ state = {
                 naval_base = 2
             }
         }
-        add_core_of = SPR
+        add_core_of = CST
         
     }
     provinces = { 738 3729 3744 6749 9703 9719 11688 11707 13218 }

@@ -6,13 +6,13 @@ state = {
         coal = 2
     }
     history = {
-        owner = SPR
+        owner = CST
         victory_points = { 11825 3 }
         buildings = {
             infrastructure = 3
             industrial_complex = 1
         }
-        add_core_of = SPR
+        add_core_of = CST
     
     }
     provinces = { 903 3820 4024 6936 9700 9827 9846 9872 11684 11806 11809 11825 13227 }

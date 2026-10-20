@@ -10,7 +10,6 @@ state = {
     }
     history = {
         owner = AAA
-        add_core_of = CAN
         buildings = {
             infrastructure = 3
             industrial_complex = 1
