@@ -4,6 +4,27 @@ set_convoys = 0
 set_stability = 0.6
 set_war_support = 0.5
 
+set_autonomy = {
+    target = NOR
+    autonomy_state = personal_union
+}
+set_autonomy = {
+    target = SWE
+    autonomy_state = personal_union
+}
+set_autonomy = {
+    target = SCH
+    autonomy_state = personal_union
+}
+set_autonomy = {
+    target = HLS
+    autonomy_state = personal_union
+}
+
+add_ideas = {
+    shared_kalmar_union
+}
+
 set_politics = {
 	ruling_party = neutrality
 	last_election = "1936.1.1"

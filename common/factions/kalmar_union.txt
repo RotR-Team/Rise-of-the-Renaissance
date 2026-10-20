@@ -1,0 +1,12 @@
+kalmar_union_faction = {
+	leader = DEN
+
+	members = {
+		DEN
+		NOR
+		SWE
+		SCH 
+		HLS 
+
+	}
+}
