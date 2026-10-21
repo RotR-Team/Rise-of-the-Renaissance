@@ -30,5 +30,31 @@ ideas = {
 				industrial_capacity_factory = -1.5
 			}
 		}
+        HRE_leader = {
+            allowed = {
+                always = no
+            }
+
+            picture = HRE_national_spirit
+
+            modifier = {
+                political_power_gain = 0.25
+                consumer_goods_factor = 0.1
+                war_support_factor = 0.1
+            }
+        }
+        HRE_member = {
+            allowed = {
+                always = no
+            }
+
+            picture = HRE_national_spirit
+
+            modifier = {
+                political_power_gain = 0.15
+                consumer_goods_factor = 0.05
+                war_support_factor = 0.05
+            }
+        }
 	}
 }
