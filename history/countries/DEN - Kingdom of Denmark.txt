@@ -25,6 +25,13 @@ add_ideas = {
     shared_kalmar_union
 }
 
+create_faction = kalmar_union_faction
+add_to_faction = DEN
+add_to_faction = NOR
+add_to_faction = SWE 
+add_to_faction = SCH
+add_to_faction = HLS
+
 set_politics = {
 	ruling_party = neutrality
 	last_election = "1936.1.1"
