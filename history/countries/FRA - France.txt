@@ -34,3 +34,8 @@ set_autonomy = {
 	target = SNC
 	autonomy_state = autonomy_puppet
 }
+
+declare_war_on = {
+    target = ENG
+    type = annex_everything
+}
