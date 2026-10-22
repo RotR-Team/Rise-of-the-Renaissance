@@ -1,0 +1,247 @@
+focus_tree = {
+    id = ottoman_focus
+
+    default = no
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = OTO
+		}
+	}
+
+	continuous_focus_position = { x = 50 y = 1000 }
+
+    focus = { #POLITICAL BRANCH
+        id = OTO_aftermath_of_murad_ii
+        available = {
+
+        }
+        
+        bypass = {
+
+        }
+
+        cost = 5
+
+        x = 25
+        y = 0
+
+        completion_reward = {
+
+        }
+    }
+    focus = { 
+        id = OTO_secure_absolute_authority
+        relative_position_id = OTO_aftermath_of_murad_ii
+        prerequisite = { focus = OTO_aftermath_of_murad_ii }
+        available = {
+
+        }
+        
+        bypass = {
+
+        }
+
+        cost = 5
+
+        x = 1
+        y = 1
+
+        completion_reward = {
+
+        }
+    }
+    focus = { 
+        id = OTO_conversion_of_hagia_sophia
+        relative_position_id = OTO_aftermath_of_murad_ii
+        prerequisite = { focus = OTO_aftermath_of_murad_ii }
+        available = {
+
+        }
+        
+        bypass = {
+
+        }
+
+        cost = 5
+
+        x = -1
+        y = 1
+
+        completion_reward = {
+
+        }
+    }
+    focus = { 
+        id = OTO_disband_the_janissaries
+        relative_position_id = OTO_conversion_of_hagia_sophia
+        prerequisite = { focus = OTO_conversion_of_hagia_sophia }
+        mutually_exclusive = { focus = OTO_keep_the_janissaries }
+        available = {
+
+        }
+        
+        bypass = {
+
+        }
+
+        cost = 10
+
+        x = -5
+        y = 1
+
+        completion_reward = {
+            custom_effect_tooltip = OTO_janissary_outrage_tt
+            remove_ideas = OTO_janissaries
+        }
+    }
+    focus = { 
+        id = OTO_keep_the_janissaries
+        relative_position_id = OTO_secure_absolute_authority
+        prerequisite = { focus = OTO_secure_absolute_authority }
+        mutually_exclusive = { focus = OTO_disband_the_janissaries }
+        available = {
+
+        }
+        
+        bypass = {
+
+        }
+
+        cost = 10
+
+        x = 5
+        y = 1
+
+        completion_reward = {
+
+        }
+    }
+    focus = { 
+        id = OTO_contact_the_grand_viziers
+        relative_position_id = OTO_disband_the_janissaries
+        prerequisite = { focus = OTO_disband_the_janissaries }
+        available = {
+
+        }
+        
+        bypass = {
+
+        }
+
+        cost = 5
+
+        x = -2
+        y = 5
+
+        completion_reward = {
+
+        }
+    }
+    focus = { 
+        id = OTO_accuse_the_sultan_of_blasphemy
+        relative_position_id = OTO_contact_the_grand_viziers
+        prerequisite = { focus = OTO_contact_the_grand_viziers }
+        available = {
+
+        }
+        
+        bypass = {
+
+        }
+
+        cost = 5
+
+        x = -2
+        y = 1
+
+        completion_reward = {
+
+        }
+    }
+    focus = { 
+        id = OTO_religious_fanaticism
+        relative_position_id = OTO_contact_the_grand_viziers
+        prerequisite = { focus = OTO_contact_the_grand_viziers }
+        available = {
+
+        }
+        
+        bypass = {
+
+        }
+
+        cost = 5
+
+        x = 0
+        y = 1
+
+        completion_reward = {
+
+        }
+    }
+    focus = { 
+        id = OTO_contact_the_agha
+        relative_position_id = OTO_contact_the_grand_viziers
+        prerequisite = { focus = OTO_contact_the_grand_viziers }
+        available = {
+
+        }
+        
+        bypass = {
+
+        }
+
+        cost = 5
+
+        x = 2
+        y = 1
+
+        completion_reward = {
+
+        }
+    }
+    focus = { 
+        id = OTO_march_on_edirne
+        relative_position_id = OTO_contact_the_grand_viziers
+        prerequisite = { focus = OTO_accuse_the_sultan_of_blasphemy }
+        prerequisite = { focus = OTO_religious_fanaticism }
+        prerequisite = { focus = OTO_contact_the_agha }
+        available = {
+
+        }
+        
+        bypass = {
+
+        }
+
+        cost = 5
+
+        x = 0
+        y = 3
+
+        completion_reward = {
+
+        }
+    }
+    focus = { #Conquer
+        id = OTO_the_albanian_crisis
+        available = {
+
+        }
+        
+        bypass = {
+
+        }
+
+        cost = 5
+
+        x = 40
+        y = 0
+
+        completion_reward = {
+            
+        }
+    }
+}

@@ -1,0 +1,31 @@
+ideas = {
+    country = {
+        OTO_janissaries = {
+            allowed = {
+                always = no
+            }
+
+            picture = tur_ottoman_spirit
+
+            modifier = {
+                army_org_factor = 0.05
+                training_time_factor = -0.1
+                army_infantry_attack_factor = 0.05
+                army_infantry_defence_factor = 0.05
+            }
+        }
+        OTO_the_timar_system = {
+            allowed = {
+                always = no
+            }
+
+            picture = generic_agrarian_society
+
+            modifier = {
+                political_power_gain = 0.2
+                consumer_goods_factor = -0.1
+                stability_factor = -0.15
+            }
+        }
+    }
+}
