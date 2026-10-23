@@ -1,0 +1,236 @@
+resources_calculation = {
+    #
+    #
+    #
+    # Province 540
+    #
+    #
+    #
+    if = {
+        limit = {
+            any_province_building_level = {
+                province = {
+                    id = 540
+                }
+                building = farm
+                level > 4
+            }
+        }
+        set_variable = { 123.controller:production_array^0 = 0.5 }
+        add_to_variable = { 123.controller:stock_array^0 = 0.5}
+        add_to_variable = { 123.controller:resources_gui_dirty = 1 }
+    }
+
+    if = {
+        limit = {
+            AND = {
+                any_province_building_level = {
+                    province = {
+                        id = 540
+                    }
+                    building = farm
+                    level > 3
+                }
+                any_province_building_level = {
+                    province = {
+                        id = 540
+                    }
+                    building = farm
+                    level < 5
+                }
+            }
+        }
+        set_variable = { 123.controller:production_array^0 = 0.4 }
+        add_to_variable = { 123.controller:stock_array^0 = 0.4 }
+        add_to_variable = { 123.controller:resources_gui_dirty = 1 }
+    }
+
+    if = {
+        limit = {
+            AND = {
+                any_province_building_level = {
+                    province = {
+                        id = 540
+                    }
+                    building = farm
+                    level > 2
+                }
+                any_province_building_level = {
+                    province = {
+                        id = 540
+                    }
+                    building = farm
+                    level < 4
+                }
+            }
+        }
+        set_variable = { 123.controller:production_array^0 = 0.3 }
+        add_to_variable = { 123.controller:stock_array^0 = 0.3 }
+        add_to_variable = { 123.controller:resources_gui_dirty = 1 }
+    }
+
+    if = {
+        limit = {
+            AND = {
+                any_province_building_level = {
+                    province = {
+                        id = 540
+                    }
+                    building = farm
+                    level > 1
+                }
+                any_province_building_level = {
+                    province = {
+                        id = 540
+                    }
+                    building = farm
+                    level < 3
+                }
+            }
+        }
+        set_variable = { 123.controller:production_array^0 = 0.2 }
+        add_to_variable = { 123.controller:stock_array^0 = 0.2 } 
+        add_to_variable = { 123.controller:resources_gui_dirty = 1 }
+    }
+
+    if = {
+        limit = {
+            AND = {
+                any_province_building_level = {
+                    province = {
+                        id = 540
+                    }
+                    building = farm
+                    level > 0
+                }
+                any_province_building_level = {
+                    province = {
+                        id = 540
+                    }
+                    building = farm
+                    level < 2
+                }
+            }
+        }
+        set_variable = { 123.controller:production_array^0 = 0.1 }
+        add_to_variable = { 123.controller:stock_array^0 = 0.1 }
+        add_to_variable = { 123.controller:resources_gui_dirty = 1 }
+    }
+    #
+    #
+    #
+    # Province 311
+    #
+    #
+    #
+    if = {
+        limit = {
+            any_province_building_level = {
+                province = {
+                    id = 311
+                }
+                building = farm
+                level > 4
+            }
+        }
+        set_variable = { 122.controller:production_array^1 = 0.5 }
+        add_to_variable = { 122.controller:stock_array^1 = 0.5}
+        add_to_variable = { 122.controller:resources_gui_dirty = 1 }
+    }
+
+    if = {
+        limit = {
+            AND = {
+                any_province_building_level = {
+                    province = {
+                        id = 311
+                    }
+                    building = farm
+                    level > 3
+                }
+                any_province_building_level = {
+                    province = {
+                        id = 311
+                    }
+                    building = farm
+                    level < 5
+                }
+            }
+        }
+        set_variable = { 122.controller:production_array^1 = 0.4 }
+        add_to_variable = { 122.controller:stock_array^1 = 0.4 }
+        add_to_variable = { 122.controller:resources_gui_dirty = 1 }
+    }
+
+    if = {
+        limit = {
+            AND = {
+                any_province_building_level = {
+                    province = {
+                        id = 311
+                    }
+                    building = farm
+                    level > 2
+                }
+                any_province_building_level = {
+                    province = {
+                        id = 311
+                    }
+                    building = farm
+                    level < 4
+                }
+            }
+        }
+        set_variable = { 122.controller:production_array^1 = 0.3 }
+        add_to_variable = { 122.controller:stock_array^1 = 0.3 }
+        add_to_variable = { 122.controller:resources_gui_dirty = 1 }
+    }
+
+    if = {
+        limit = {
+            AND = {
+                any_province_building_level = {
+                    province = {
+                        id = 311
+                    }
+                    building = farm
+                    level > 1
+                }
+                any_province_building_level = {
+                    province = {
+                        id = 311
+                    }
+                    building = farm
+                    level < 3
+                }
+            }
+        }
+        set_variable = { 122.controller:production_array^1 = 0.2 }
+        add_to_variable = { 122.controller:stock_array^1 = 0.2 } 
+        add_to_variable = { 122.controller:resources_gui_dirty = 1 }
+    }
+
+    if = {
+        limit = {
+            AND = {
+                any_province_building_level = {
+                    province = {
+                        id = 311
+                    }
+                    building = farm
+                    level > 0
+                }
+                any_province_building_level = {
+                    province = {
+                        id = 311
+                    }
+                    building = farm
+                    level < 2
+                }
+            }
+        }
+        set_variable = { 122.controller:production_array^1 = 0.1 }
+        add_to_variable = { 122.controller:stock_array^1 = 0.1 }
+        add_to_variable = { 122.controller:resources_gui_dirty = 1 }
+    }
+}

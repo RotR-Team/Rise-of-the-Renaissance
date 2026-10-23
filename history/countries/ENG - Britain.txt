@@ -24,3 +24,13 @@ set_autonomy = {
 	target = PEC
 	autonomy_state = autonomy_puppet
 }
+set_variable = { ENG.resources_gui_dirty = 1 }
+
+add_to_array = { ENG.resource_names_array = 1 }
+add_to_array = { ENG.resource_names_array = 2 }
+add_to_array = { ENG.production_array = 0 }
+add_to_array = { ENG.production_array = 0 }
+add_to_array = { ENG.stock_array = 1.2 }
+add_to_array = { ENG.stock_array = 0.2 }
+add_to_array = { ENG.demand_array = 0 }
+add_to_array = { ENG.demand_array = 0 }

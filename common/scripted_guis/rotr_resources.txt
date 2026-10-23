@@ -1,0 +1,90 @@
+scripted_gui = {
+    economic_buttons_display = {
+        context_type = player_context
+        parent_window_token = top_bar
+        window_name = "economics_area"
+
+        effects = {
+            economics_area_button_click = {
+                if = {
+                    limit = {
+                        has_country_flag = economics_buttons_open
+                    }
+                    clr_country_flag = economics_buttons_open
+                }
+                else = {
+                    set_country_flag = economics_buttons_open
+                }
+            }
+        }
+    }
+    economics_menus_display = {
+        context_type = player_context
+        parent_window_token = top_bar
+        window_name = "economics_area_buttons"
+
+        visible = {
+            has_country_flag = economics_buttons_open
+        }
+
+        effects = {
+            economics_close_button_click = {
+                clr_country_flag = economics_buttons_open
+            }
+            resources_button_click = {
+                clr_country_flag = economics_buttons_open
+                set_country_flag = resources_area_open
+            }
+        }
+    }
+    resources_table_display = {
+        context_type = player_context
+        parent_window_token = top_bar
+        window_name = "resources_area"
+
+        visible = {
+            has_country_flag = resources_area_open
+        }
+
+        effects = {
+            resources_close_button_click = {
+                clr_country_flag = resources_area_open
+            }
+        }
+        dirty = resources_gui_dirty
+        
+        dynamic_lists = {
+            resources_name_grid = {
+                array = resource_names_array
+                value = v
+                index = i
+                change_scope = no
+                entry_container = "resources_name_entry"
+            }
+
+            resources_production_grid = {
+                array = production_array
+                value = v
+                index = i
+                change_scope = no
+                entry_container = "resources_production_entry"
+            }
+
+            resources_stock_grid = {
+                array = stock_array
+                value = v
+                index = i
+                change_scope = no
+                entry_container = "resources_stock_entry"
+            }
+
+            resources_demand_grid = {
+                array = demand_array
+                value = v
+                index = i
+                change_scope = no
+                entry_container = "resources_demand_entry"
+            }
+        }
+    }
+}

@@ -1,0 +1,10 @@
+spriteTypes = {
+    spriteType = {
+        name = "GFX_grain_resource"
+        texturefile = "gfx/interface/resources/grain.dds"
+    }
+    spriteType = {
+        name = "GFX_sugar_resource"
+        texturefile = "gfx/interface/resources/sugar.dds"
+    }
+}

@@ -1,0 +1,31 @@
+spriteTypes = {
+    spriteType = {
+		name = "GFX_resources_menu_button"
+		texturefile = "gfx/interface/topbar/resources_button.dds"
+	}
+	spriteType = {
+		name = "GFX_economics_area_button"
+		texturefile = "gfx/interface/topbar/economics_area_button.dds"
+	}
+	spriteType = {
+		name = "GFX_economics_close_button"
+		texturefile = "gfx/interface/topbar/economics_close_button.dds"
+	}
+	spriteType = {
+		name = "GFX_economics_area_bg"
+		texturefile = "gfx/interface/extra_interfaces/economics_area_bg.dds"
+	}
+	spriteType = {
+		name = "GFX_resources_menu_bg"
+		texturefile = "gfx/interface/extra_interfaces/resources_menu.dds"
+	}
+	corneredTileSpriteType = {
+		name = "GFX_resources_table_bg"
+		texturefile = "gfx/interface/extra_interfaces/resources_table_bg.dds"
+		noOfFrames = 1
+		size = {
+            x = 64
+            y = 64
+        }
+	}
+}

@@ -1,0 +1,15 @@
+add_namespace = resourcesproduction
+
+country_event = {
+    id = resourcesproduction.1
+    title = resourcesproduction.1.t
+    desc = resourcesproduction.1.desc
+    is_triggered_only = yes
+    hidden=yes
+
+    immediate = {
+        capital_scope = {
+            resources_calculation = yes
+        }
+    }
+}
