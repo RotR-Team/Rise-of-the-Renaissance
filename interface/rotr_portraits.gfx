@@ -1,5 +1,14 @@
 spriteTypes = {
-
+	#LIT
+	spriteType = {
+		name = GFX_rotr_portrait_LIT_casimir_iv
+		texturefile = "gfx/leaders/LIT/LIT_casimir_iv.tga"
+	}
+    #POL
+	spriteType = {
+		name = GFX_rotr_portrait_POL_casimir_iv
+		texturefile = "gfx/leaders/POL/POL_casimir_iv.dds"
+	}
 	#ENG
 	spriteType = {
 		name = GFX_rotr_portrait_ENG_henry_vi

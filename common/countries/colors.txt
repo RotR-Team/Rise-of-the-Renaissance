@@ -36,7 +36,7 @@ CZE = {
 	color_ui = rgb { 186 171 112 }
 }
 POL = {
-	color = rgb { 214 102 139 }
+	color = rgb { 150 23 23 }
 	color_ui = rgb { 255 120 138 }
 }
 AUS = {
@@ -44,7 +44,7 @@ AUS = {
 	color_ui = rgb { 255 255 255 }
 }
 LIT = {
-	color = rgb { 194 144 173 }
+	color = rgb { 150 23 23 }
 	color_ui = rgb { 194 144 173 }
 }
 EST = {
