@@ -1,0 +1,20 @@
+capital = 88
+
+recruit_character = POL_casimir_iv
+
+set_politics = {
+    ruling_party = neutrality
+    elections_allowed = no
+}
+
+set_popularities = {
+    democratic = 0
+    fascism = 0
+    communism = 0
+    neutrality = 100
+}
+
+set_autonomy = {
+    target = LIT
+    autonomy_state = personal_union
+}

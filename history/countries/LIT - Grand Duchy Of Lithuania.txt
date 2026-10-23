@@ -1,0 +1,15 @@
+capital = 784
+
+recruit_character = LIT_casimir_iv
+
+set_politics = {
+	ruling_party = neutrality
+	elections_allowed = no
+}
+
+set_popularities = {
+	democratic = 0
+	fascism = 0
+	communism = 0
+	neutrality = 100
+}
