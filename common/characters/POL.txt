@@ -1,0 +1,15 @@
+characters = {
+	POL_casimir_iv = {
+		name = POL_casimir_iv
+		portraits = {
+			civilian = {
+			    large = GFX_rotr_portrait_POL_casimir_iv				
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = 1492.6.7
+		}
+
+	}
+}

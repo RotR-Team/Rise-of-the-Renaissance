@@ -1,0 +1,14 @@
+characters = {
+	LIT_casimir_iv = {
+		name = LIT_casimir_iv
+		portraits = {
+			civillian = {
+				large = GFX_rotr_portrait_LIT_casimir_iv
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = 1492.6.7
+		}
+	}
+}
