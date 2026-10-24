@@ -1,7 +1,8 @@
 capital = 88
-
+add_ideas = POL_lit_alliance
 recruit_character = POL_casimir_iv
-
+create_faction = "Polish-Lithuanian Alliance"
+add_to_faction = LIT
 set_politics = {
     ruling_party = neutrality
     elections_allowed = no

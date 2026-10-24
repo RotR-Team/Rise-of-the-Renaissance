@@ -2,7 +2,7 @@ spriteTypes = {
 	#LIT
 	spriteType = {
 		name = GFX_rotr_portrait_LIT_casimir_iv
-		texturefile = "gfx/leaders/LIT/LIT_casimir_iv.tga"
+		texturefile = "gfx/leaders/LIT/LIT_casimir_iv.dds"
 	}
     #POL
 	spriteType = {

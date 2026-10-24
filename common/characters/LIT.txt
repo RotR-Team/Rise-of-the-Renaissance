@@ -2,7 +2,7 @@ characters = {
 	LIT_casimir_iv = {
 		name = LIT_casimir_iv
 		portraits = {
-			civillian = {
+			civilian = {
 				large = GFX_rotr_portrait_LIT_casimir_iv
 			}
 		}

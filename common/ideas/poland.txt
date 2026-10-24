@@ -1,0 +1,14 @@
+ideas = {
+    country = {
+        POL_lit_alliance = {
+            picture = POL_lit_alliance
+            allowed = { always = no }
+            removal_cost = -1
+
+            modifier = {
+                political_power_gain = 0.03
+                stability_factor = 0.05
+            }
+        }
+    }
+}

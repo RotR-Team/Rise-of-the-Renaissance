@@ -1,5 +1,5 @@
 capital = 784
-
+add_ideas = POL_lit_alliance
 recruit_character = LIT_casimir_iv
 
 set_politics = {
