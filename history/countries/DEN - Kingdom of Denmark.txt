@@ -6,8 +6,6 @@ set_war_support = 0.5
 
 puppet = NOR
 puppet = SWE
-puppet = SCH
-puppet = HLS
 
 add_ideas = {
     shared_kalmar_union
@@ -16,9 +14,7 @@ add_ideas = {
 create_faction = kalmar_union_faction
 add_to_faction = DEN
 add_to_faction = NOR
-add_to_faction = SWE 
-add_to_faction = SCH
-add_to_faction = HLS
+add_to_faction = SWE
 
 set_politics = {
 	ruling_party = neutrality
