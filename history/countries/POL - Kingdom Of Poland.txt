@@ -18,3 +18,7 @@ set_autonomy = {
     target = LIT
     autonomy_state = personal_union
 }
+set_autonomy = {
+    target = LIT
+    autonomy_state = personal_union
+}
