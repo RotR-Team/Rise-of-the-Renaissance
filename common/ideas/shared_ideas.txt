@@ -18,7 +18,7 @@ ideas = {
 				always = no
 			}
 
-			picture = tribes_picture
+			picture = GFX_idea_tribes_picture
 
 			modifier = {
 				political_power_cost = 10

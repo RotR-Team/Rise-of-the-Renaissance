@@ -24,3 +24,10 @@ set_popularities = {
     communism = 0
     neutrality = 0
 }
+create_country_leader = {
+	name = "TRIBES"
+	desc = ""
+	picture = GFX_portrait_tribes
+	ideology =   despotism
+
+}

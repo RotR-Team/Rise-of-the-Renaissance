@@ -1,4 +1,9 @@
 spriteTypes = {	
+	   	SpriteType = {
+   		name = "GFX_idea_tribes_picture"
+   		texturefile = "gfx/interface/ideas/tribes.dds"
+   		noOfFrames = 1
+   	}
    	SpriteType = {
    		name = "GFX_idea_POL_lit_alliance"
    		texturefile = "gfx/interface/ideas/POL_LIT_alliance.dds"
