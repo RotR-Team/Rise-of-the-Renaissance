@@ -1,7 +1,16 @@
 spriteTypes = {
+	spriteType = {
+		name = GFX_rotr_portrait_Karl_Knutsson_nor
+		texturefile = "gfx/leaders/NOR/Karl_Knutsson.dds"
+	}
+	spriteType = {
+		name = GFX_rotr_portrait_Karl_Knutsson_swe
+		texturefile = "gfx/leaders/SWE/Karl_Knutsson.dds"
+	}
+	
 	##DEN
 	
-		spriteType = {
+	spriteType = {
 		name = GFX_rotr_portrait_DEN_christian_i
 		texturefile = "gfx/leaders/DEN/DEN_christian_i.dds"
 	}

@@ -14,3 +14,9 @@ set_popularities = {
 	communism = 8
 	fascism = 3
 }
+create_country_leader = {
+	name = "Karl Knutsson"
+	desc = ""
+	picture = GFX_rotr_portrait_Karl_Knutsson_swe
+	ideology = conservatism
+}
