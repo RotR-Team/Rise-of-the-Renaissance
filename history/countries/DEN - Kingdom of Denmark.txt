@@ -7,9 +7,9 @@ set_war_support = 0.5
 puppet = NOR
 puppet = SWE
 
-add_ideas = {
-    shared_kalmar_union
-}
+add_ideas = shared_kalmar_union
+
+
 
 create_faction = kalmar_union_faction
 add_to_faction = DEN

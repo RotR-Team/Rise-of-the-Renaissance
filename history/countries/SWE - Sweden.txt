@@ -1,0 +1,16 @@
+﻿capital = 141	
+add_ideas = shared_kalmar_union
+oob = "SWE_1936"
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "1932.9.18"
+	election_frequency = 48
+	elections_allowed = yes
+}
+set_popularities = {
+	democratic = 75
+	neutrality = 14
+	communism = 8
+	fascism = 3
+}
