@@ -6,9 +6,8 @@ state = {
     resources = {
     }
     history = {
-        owner = ENG
-        add_core_of = ENG
-        add_core_of = SCO
+        owner = NOR
+        add_core_of = NOR
         buildings = {
             infrastructure = 1
             6196 = {
