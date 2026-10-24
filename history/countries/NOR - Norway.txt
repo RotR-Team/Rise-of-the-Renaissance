@@ -9,11 +9,14 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	neutrality = 100
+	democratic = 96
+	fascism = 2
+	communism = 2
+	neutrality = 0
 }
 create_country_leader = {
 	name = "Karl Knutsson"
 	desc = ""
 	picture = GFX_rotr_portrait_Karl_Knutsson_nor
-	ideology = despotism
+	ideology = conservatism
 }
