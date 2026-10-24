@@ -4,6 +4,11 @@ spriteTypes = {
    		texturefile = "gfx/interface/ideas/POL_LIT_alliance.dds"
    		noOfFrames = 1
    	}
+	SpriteType = {
+   		name = "GFX_kalmar_union"
+   		texturefile = "gfx/interface/ideas/kalmar_union"
+   		noOfFrames = 1
+   	}
 
 ##vanilla 
 	SpriteType = {
