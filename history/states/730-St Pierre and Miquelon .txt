@@ -6,10 +6,7 @@ state = {
     history = {
         owner = AAA
         buildings = {
-            infrastructure = 2
-            373 = {
-                naval_base = 1
-            }
+            infrastructure = 1
         }
     }
     provinces = { 373 }
