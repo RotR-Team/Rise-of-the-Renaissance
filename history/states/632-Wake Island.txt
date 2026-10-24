@@ -5,12 +5,8 @@ state = {
     state_category = tiny_island
     history = {
         owner = AAA
-        add_core_of = GUM
         buildings = {
-            infrastructure = 2
-            13047 = {
-                naval_base = 1
-            }
+            infrastructure = 1
         }
         victory_points = { 13047 1 }
     }

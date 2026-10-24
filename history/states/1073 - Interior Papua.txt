@@ -6,8 +6,7 @@ state = {
     impassable = yes
     force_link_ownership_to = 523
     history = {
-        add_core_of = PNG
-        owner = AST
+        owner = AAA
         buildings = {
             infrastructure = 0
         }

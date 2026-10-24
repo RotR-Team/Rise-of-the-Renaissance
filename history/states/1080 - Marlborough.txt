@@ -7,10 +7,9 @@ state = {
     }
     state_category = rural
     history = {
-        owner = NZL
-        add_core_of = NZL
+        owner = AAA
         buildings = {
-            infrastructure = 2
+            infrastructure = 0
         }
         victory_points = { 12632 1 }
     }

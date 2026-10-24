@@ -7,15 +7,9 @@ state = {
     }
     state_category = large_island
     history = {
-        owner = AST
-        add_core_of = AST
-        victory_points = { 5187 1 }
+        owner = AAA
         buildings = {
-            infrastructure = 3
-            5187 = {
-                naval_base = 2
-                dam = 1
-            }
+            infrastructure = 1
         }
     }
     provinces = { 2183 2189 5181 5187 10665 12645 }

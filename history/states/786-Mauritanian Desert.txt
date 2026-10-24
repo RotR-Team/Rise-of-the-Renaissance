@@ -6,8 +6,7 @@ state = {
     impassable = yes
     force_link_ownership_to = 557
     history = {
-        owner = FRA
-        add_core_of = MRT
+        owner = AAA
         buildings = {
             infrastructure = 0
         }
