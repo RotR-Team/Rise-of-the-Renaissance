@@ -5,7 +5,7 @@ ideas = {
 				always = no
 			}
 
-			picture = kalmar_union_flag
+			picture = GFX_idea_shared_kalmar_union
 
 			modifier = {
 				political_power_cost = 0.1
@@ -18,7 +18,7 @@ ideas = {
 				always = no
 			}
 
-			picture = GFX_idea_tribes_picture
+			picture = GFX_idea_tribe_idea 
 
 			modifier = {
 				political_power_cost = 10

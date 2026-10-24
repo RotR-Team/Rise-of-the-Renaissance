@@ -1,6 +1,6 @@
 spriteTypes = {	
 	   	SpriteType = {
-   		name = "GFX_idea_tribes_picture"
+   		name = "GFX_idea_tribe_idea"
    		texturefile = "gfx/interface/ideas/tribes.dds"
    		noOfFrames = 1
    	}
@@ -10,7 +10,7 @@ spriteTypes = {
    		noOfFrames = 1
    	}
 	SpriteType = {
-   		name = "GFX_kalmar_union_flag"
+   		name = "GFX_idea_shared_kalmar_union"
    		texturefile = "gfx/interface/ideas/kalmar_union_flag.dds"
    		noOfFrames = 1
    	}

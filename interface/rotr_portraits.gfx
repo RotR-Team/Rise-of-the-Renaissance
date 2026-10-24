@@ -1,4 +1,10 @@
 spriteTypes = {
+	##DEN
+	
+		spriteType = {
+		name = GFX_rotr_portrait_DEN_christian_i
+		texturefile = "gfx/leaders/DEN/DEN_christian_i.dds"
+	}
 	#LIT
 	spriteType = {
 		name = GFX_rotr_portrait_LIT_casimir_iv

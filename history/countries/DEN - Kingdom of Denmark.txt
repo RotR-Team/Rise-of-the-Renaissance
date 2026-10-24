@@ -32,3 +32,10 @@ set_popularities = {
 	communism = 0
 	neutrality = 100
 }
+create_country_leader = {
+	name = "Christian I"
+	desc = ""
+	picture = GFX_rotr_portrait_DEN_christian_i
+	ideology =   despotism
+
+}
