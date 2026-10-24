@@ -1,0 +1,18 @@
+ideas = {
+    country = {
+        DEN_recovery_from_the_black_death = {
+
+            picture = SWE_neither_death_nor_dishonor
+
+            allowed = {
+                always = no
+            }
+
+            modifier = {
+                monthly_population = -0.2
+                consumer_goods_factor = 0.1
+                production_speed_buildings_factor = -0.1
+            }
+        }
+    }
+}

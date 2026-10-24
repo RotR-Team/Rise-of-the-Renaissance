@@ -7,7 +7,10 @@ set_war_support = 0.5
 puppet = NOR
 puppet = SWE
 
-add_ideas = shared_kalmar_union
+add_ideas = {
+	shared_kalmar_union
+	DEN_recovery_from_the_black_death
+}
 
 
 
