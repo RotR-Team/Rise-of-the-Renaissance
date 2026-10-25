@@ -20,6 +20,11 @@ spriteTypes = {
    		texturefile = "gfx/interface/ideas/kalmar_union_flag.dds"
    		noOfFrames = 1
    	}
+	spriteType = {
+		name = "GFX_idea_OTO_albanian_struggle"
+		texturefile = "gfx/interface/ideas/OTO_albanian_struggle.dds"
+		noOfFrames = 1
+	}
 
 ##vanilla 
 	SpriteType = {
