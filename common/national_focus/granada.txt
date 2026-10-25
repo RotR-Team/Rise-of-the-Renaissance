@@ -1,0 +1,11 @@
+focus_tree = {
+	id = analysing_our_defeats
+
+	country = {
+		base = 0
+		modifier = {
+			add = 10
+			tag = EMG
+		}
+	}
+}
