@@ -1,0 +1,18 @@
+characters = {
+	ALB_Giorgio_Scanderbeg = {
+		name = "Giorgio Scanderbeg"
+		portraits = {
+			army = {
+				large = GFX_portrait_Giorgio_Scanderbeg
+			}
+		}
+		field_marshal = {
+			traits = {}
+			skill = 2
+			attack_skill = 3
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 3
+		}
+	}
+}
