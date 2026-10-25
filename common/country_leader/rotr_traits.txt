@@ -1,0 +1,8 @@
+leader_traits = {
+    the_last_hope_of_rome = {
+        random = no
+        stability_factor = 0.10
+        war_support_factor = 0.10
+        political_power_gain = 0.05
+    }
+}
