@@ -4,6 +4,7 @@ state = {
     history = {
         owner = CST
         victory_points = { 875 3 }
+	victory_points = { 6832 1 }
         buildings = {
             infrastructure = 3
             industrial_complex = 1
@@ -11,7 +12,7 @@ state = {
         add_core_of = CST
         
     }
-    provinces = { 875 879 950 3810 3871 6744 7198 10111 12083 }
+    provinces = { 875 879 950 3810 3871 6744 7198 10111 12083 9828 12081 6896 6832 }
     manpower = 1428513
     buildings_max_level_factor = 1.000
     state_category = town
