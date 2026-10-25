@@ -14,8 +14,8 @@ state = {
                 		coastal_bunker = 2
             		}
         	}                
-                owner = CST       
-		add_core_of = CST
+                owner = EMG       
+		add_core_of = EMG
         }
     }
     provinces = { 4135 }
