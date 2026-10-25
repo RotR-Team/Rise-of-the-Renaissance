@@ -1,0 +1,20 @@
+ideas = {
+    country = {
+        BYZ_a_crumbling_empire = {
+            picture = GFX_idea_BYZ_a_crumbling_empire
+            allowed = { always = no }
+            removal_cost = -1
+
+            modifier = {
+                production_speed_industrial_complex_factor = -0.10
+		        production_speed_arms_factory_factor = -0.15
+		        production_speed_bunker_factor = -0.10
+    	        production_speed_buildings_factor = -0.05
+                war_support_factor = -0.05
+                political_power_gain = -0.10
+                stability_factor = -0.15
+
+            }
+        }
+    }
+}

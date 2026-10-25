@@ -1,4 +1,10 @@
 spriteTypes = {	
+
+	   	SpriteType = {
+   		name = "GFX_idea_BYZ_a_crumbling_empire"
+   		texturefile = "gfx/interface/ideas/BYZ_a_crumbling_empire.dds"
+   		noOfFrames = 1
+   	}
 	   	SpriteType = {
    		name = "GFX_idea_tribe_idea"
    		texturefile = "gfx/interface/ideas/tribes.dds"
