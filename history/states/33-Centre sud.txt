@@ -11,6 +11,6 @@ state = {
         }
         add_core_of = FRA
     }
-    provinces = { 651 669 3621 3626  6648  9629 11869 11596}
+    provinces = { 651 669 3621 3626    9629 11869 11596}
     local_supplies = 0.0
 }

@@ -1,0 +1,23 @@
+state = {
+	id = 1127
+	name="STATE_1127"
+	manpower = 500000
+	state_category = rural
+
+	history = {
+		owner = AGV
+		add_core_of = AGV
+		add_core_of = POR
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = { 3790 1 }
+		victory_points = { 6880 1 }
+	}
+
+	provinces = {
+		6880 3790
+	}
+
+	local_supplies = 1
+}
