@@ -8,14 +8,13 @@ state = {
     }
     state_category = city
     history = {
-        owner = SNC
+        owner = FRA
         buildings = {
             infrastructure = 4
             arms_factory = 1
             industrial_complex = 2
             air_base = 4
         }
-        add_core_of = SNC
         add_core_of = FRA
     }
     provinces = {   3770      9728 9732  11716  769 }

@@ -1192,6 +1192,16 @@ guiTypes = {
 			name = "resources_bg"
 			spriteType = "GFX_resources_menu_bg"
 		}
+		instantTextBoxType = {
+			name = "resources_title"
+			text = "Resources"
+			position = { x = 230 y = 25 }
+			font = "garamond_24"
+			format = left
+			maxWidth = 100
+			maxHeight = 28
+		}
+
 		buttonType = {
 			name = "resources_close_button"
 			spriteType = "GFX_closebutton"

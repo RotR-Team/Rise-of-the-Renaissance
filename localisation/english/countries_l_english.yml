@@ -6247,57 +6247,17 @@
  TTO_communism_ADJ: "The Teutonic Order"
  TTO_communism_DEF: "The Teutonic Order"
 
- NOM: "Normandy"
- NOM_DEF: "Duchy of Normandy"
- NOM_ADJ: "French"
-
  AGC: "Armagnac"
  AGC_DEF: "Duchy of Armagnac"
  AGC_ADJ: "French"
-
- MIE: "Maine"
- MIE_DEF: "Duchy of Maine"
- MIE_ADJ: "French"
 
  ANJ: "Anjou"
  ANJ_DEF: "Principality of Anjou"
  ANJ_ADJ: "French"
 
- BOI: "Bar"
- BOI_DEF: "Duchy of Bar"
- BOI_ADJ: "French"
-
- PEC: "Perche"
- PEC_DEF: "County of Perche"
- PEC_ADJ: "French"
-
- MDM: "Mont de Marsan"
- MDM_DEF: "County of Mont de Marsan"
- MDM_ADJ: "French"
-
- BER: "Béarn"
- BER_DEF: "Viscounty of Béarn"
+ BER: "Berry"
+ BER_DEF: "Duchy of Berry"
  BER_ADJ: "French"
-
- FLA: "Flanders"
- FLA_DEF: "County of Flanders"
- FLA_ADJ: "French"
-
- HIN: "Hainaut"
- HIN_DEF: "Prince-Electorate of Hainaut"
- HIN_ADJ: "French"
-
- ART: "Artois"
- ART_DEF: "Duchy of Artois"
- ART_ADJ: "French"
-
- RET: "Rethel"
- RET_DEF: "County of Rethel"
- RET_ADJ: "French"
-
- ALS: "Alsace"
- ALS_DEF: "Principality of Alsace"
- ALS_ADJ: "French"
 
  LOR: "Lorraine"
  LOR_DEF: "Grand Duchy of Lorraine"
@@ -6311,25 +6271,9 @@
  BUR_DEF: "Kingdom of Burgundy"
  BUR_ADJ: "Burgundian"
 
- NEV: "Nevers"
- NEV_DEF: "Duchy of Nevers"
- NEV_ADJ: "French"
-
- AUV: "Auvergne"
- AUV_DEF: "Duchy of Auvergne"
- AUV_ADJ: "French"
-
- VAL: "Valentinois"
- VAL_DEF: "County of Valentinois"
+ VAL: "Valois"
+ VAL_DEF: "County of Valois"
  VAL_ADJ: "French"
-
- FRZ: "Forez"
- FRZ_DEF: "Province of Forez"
- FRZ_ADJ: "French"
-
- BLO: "Blois"
- BLO_DEF: "Free State of Blois"
- BLO_ADJ: "French"
 
  BOR: "Bourbonnais"
  BOR_DEF: "Royal Governorate of Bourbonnais"
@@ -6347,34 +6291,11 @@
  ORL_DEF: "Duchy of Órleans"
  ORL_ADJ: "French"
 
- ERX: "Evreux"
- ERX_DEF: "Principality of Evreux"
- ERX_ADJ: "French"
-
- AXE: "Auxerre"
- AXE_DEF: "County of Auxerre"
- AXE_ADJ: "French"
-
- ETP: "Étampes"
- ETP_DEF: "Municipality of Étampes"
- ETP_ADJ: "French"
-
- PRI: "Périgord"
- PRI_DEF: "Lordship of Périgord"
- PRI_ADJ: "French"
-
- MRC: "La Marche"
- MRC_DEF: "Duchy of La Marche"
- MRC_ADJ: "French"
-
- ALN: "Alencon"
- ALN_DEF: "Duchy of Alencon"
-
  CMG: "Comminges"
  CMG_DEF: "Duchy of Comminges"
 
  SAV: "Savoy"
  SAV_DEF: "County of Savoy"
 
- SNC: "Sancerre"
- SNC_DEF: "Duchy of Sancerre"
+ CMP: "Champagne"
+ CMP_DEF: "Champagne"

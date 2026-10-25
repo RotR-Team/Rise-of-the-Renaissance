@@ -15,6 +15,7 @@ state = {
      
         victory_points = { 9559 10 }
 	victory_points = { 11516 5 }
+        victory_points = { 11531 5 }
         buildings = {
             infrastructure = 4
             industrial_complex = 3
@@ -38,6 +39,6 @@ state = {
         }
         add_core_of = LOR
     }
-    provinces = { 549  1346 3629   9559 11502 11516 521}
+    provinces = { 549  1346 3629 563 11531  9559 11502 11516 521}
     local_supplies = 14.0
 }

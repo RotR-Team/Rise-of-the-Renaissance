@@ -8,5 +8,5 @@ state = {
 	add_core_of = BUR
 	add_core_of = FRA
     }
-    provinces = {   3652 817 648  }
+    provinces = {   3652 817 648 9625 11794 680 11628 }
 }

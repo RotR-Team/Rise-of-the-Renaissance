@@ -1,0 +1,21 @@
+state = {
+	id = 1126
+	name="STATE_1126"
+	manpower = 500000
+	state_category = rural
+
+	history = {
+		owner = VAL
+		add_core_of = VAL
+		add_core_of = FRA
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		11549
+	}
+
+	local_supplies = 1
+}

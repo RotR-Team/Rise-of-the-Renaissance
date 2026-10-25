@@ -4,9 +4,9 @@ state = {
     manpower = 100000
     state_category = rural
     history = {
-        owner = AXE
+        owner = FRA
 	victory_points = { 9490 5 }
-	add_core_of = AXE
+
 	add_core_of = FRA
     }
     provinces = { 9490 }

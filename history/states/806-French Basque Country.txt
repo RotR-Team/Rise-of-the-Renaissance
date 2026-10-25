@@ -2,13 +2,14 @@ state = {
     id = 806
     name = STATE_806
     history = {
-        owner = BER
+        owner = FRA
         victory_points = { 9710 3 }
         
         buildings = {
             infrastructure = 3
         }
-        add_core_of = BER
+        add_core_of = FRA
+	add_claim_of = FOI
     }
     provinces = {  11697 }
     manpower = 280723

@@ -4,8 +4,8 @@ state = {
     manpower = 100000
     state_category = rural
     history = {
-        owner = RET
-	add_core_of = RET
+        owner = FRA
+
 
 	add_core_of = FRA
     }

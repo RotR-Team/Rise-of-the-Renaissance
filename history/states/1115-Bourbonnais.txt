@@ -8,5 +8,5 @@ state = {
 	add_core_of = BOR
 	add_core_of = FRA
     }
-    provinces = { 9625 9609 667 11611 }
+    provinces = {  9609  6644 6651 6648 11576  9607 }
 }

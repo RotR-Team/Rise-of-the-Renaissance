@@ -4,15 +4,16 @@ state = {
     manpower = 1370800
     state_category = city
     history = {
-        owner = FRA
+        owner = CMP
         victory_points = { 13011 5 }
         buildings = {
             infrastructure = 4
             industrial_complex = 1
             air_base = 10
         }
+	add_core_of = CMP
         add_core_of = FRA
     }
-    provinces = { 551 3533   6531  680  9505 11732 13011  }
+    provinces = { 551 3533   6531    9505 11732 13011  9658 11488 }
     local_supplies = 0.0
 }

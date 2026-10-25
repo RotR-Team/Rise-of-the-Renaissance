@@ -13,9 +13,15 @@ state = {
             infrastructure = 3
             arms_factory = 1
             industrial_complex = 3
+	    3488 = {
+                dam = 1
+            }
         }
         victory_points = { 6583 5 }
+	victory_points = { 11435 1 }
+	victory_points = { 9575 3 }
+	victory_points = { 9418 1 }
     }
-    provinces = { 6583 13375 }
+    provinces = { 6583 13375 9575 11435 9418 3488 }
     local_supplies = 0.0
 }

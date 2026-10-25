@@ -17,6 +17,6 @@ state = {
         }
         add_core_of = FCR
     }
-    provinces = {  698  6698  11488  11642 9642 3646 3666 9658 }
+    provinces = {  698  6698    11642 9642  3666  }
     local_supplies = 0.0
 }
