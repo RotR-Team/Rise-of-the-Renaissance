@@ -59,6 +59,9 @@ characters = {
 			}
 		}
 		country_leader = {
+			traits = {
+				the_last_hope_of_rome
+			}
 			ideology = centrism
 			expire = "1965.1.1"
 			id = -1
