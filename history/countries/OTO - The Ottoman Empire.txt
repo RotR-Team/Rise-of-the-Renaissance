@@ -1,8 +1,8 @@
 capital = 340
 set_research_slots = 4
 set_convoys = 0
-set_stability = 0.85
-set_war_support = 1
+set_stability = 0.6
+set_war_support = 0.45
 recruit_character = oto_character_1
 
 # Politics selected in the builder
@@ -26,6 +26,7 @@ set_popularities = {
 add_ideas = {
     OTO_janissaries
     OTO_the_timar_system
+    OTO_albanian_struggle
 }
 
 declare_war_on = {

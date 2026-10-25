@@ -27,5 +27,22 @@ ideas = {
                 stability_factor = -0.15
             }
         }
+        OTO_the_albanian_struggle = {
+            allowed = {
+                always = no
+            }
+
+            picture = OTO_albanian_struggle
+
+            modifier = {
+                war_support_factor = -0.05
+            }
+
+            targeted_modifier = {
+                tag = ALB
+                attack_bonus_against = -0.2
+                defense_bonus_against = -0.1
+            }
+        }
     }
 }
