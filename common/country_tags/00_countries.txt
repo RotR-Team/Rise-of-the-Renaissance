@@ -426,7 +426,15 @@ CMP = "countries/France/Sancerre.txt"
 #
 #
 #
-ARA = "countries/ARA - The Kingdom Of Aragon.txt"
+#---|IBERIA|---|IBERIA|---|IBERIA|---|IBERIA|---|IBERIA|---|IBERIA|---|IBERIA|---|IBERIA|---|IBERIA|---|IBERIA|---|IBERIA|---|IBERIA|---|IBERIA|---|IBERIA|---|IBERIA|---#
+ARA = "countries/Iberia/ARA - The Kingdom Of Aragon.txt"
+MLC = "countries/Iberia/Mallorca.txt"
+EMG = "countries/Iberia/EMG - Emirate Of Granada.txt"
+AGV = "countries/Iberia/Algarve.txt"
+TOL = "countries/Iberia/Toledo.txt"
+VLN = "countries/Iberia/Valencia.txt"
+VIS = "countries/Iberia/Viscaya.txt"
+#---|IBERIA|---|IBERIA|---|IBERIA|---|IBERIA|---|IBERIA|---|IBERIA|---|IBERIA|---|IBERIA|---|IBERIA|---|IBERIA|---|IBERIA|---|IBERIA|---|IBERIA|---|IBERIA|---|IBERIA|---#
 BYZ = "countries/BYZ - Eastern Roman Empire.txt"
 TTO = "countries/TTO - The Teutonic Order.txt"
 MEG = "countries/MEG - Mamluk Egypt.txt"

@@ -5,7 +5,8 @@ state = {
         steel = 8.000
     }
     history = {
-        owner = NAV
+        owner = VIS
+	add_core_of = VIS
         victory_points = { 740 10 }
         add_core_of = NAV
         buildings = {

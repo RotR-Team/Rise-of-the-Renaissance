@@ -100,8 +100,8 @@ BUL = {
 	color_ui = rgb { 51 155 0 }
 }
 POR = {
-	color = rgb { 39 116 70 }
-	color_ui = rgb { 51 151 91 }
+	color = rgb { 39 145 20 }
+	color_ui = rgb { 39 145 20 }
 }
 FIN = {
 	color = rgb { 205 212 228 }
@@ -1365,4 +1365,33 @@ HLS = {
 SIL = {
 	color = rgb { 181 159 58 }
 	color_ui = rgb { 181 159 58 }
+}
+
+NAV = {
+	color = rgb { 150 123 35 }
+	color_ui = rgb { 150 123 35 }
+}
+VIS = {
+	color = rgb { 143 119 40 }
+	color_ui = rgb { 143 119 40 }
+}
+VLN = {
+	color = rgb { 128 65 55 }
+	color_ui = rgb { 128 65 55 }
+}
+AGV = {
+	color = rgb { 52 105 39 }
+	color_ui = rgb { 52 105 39 }
+}
+TOL = {
+	color = rgb { 189 154 30 }
+	color_ui = rgb { 189 154 30 }
+}
+MLC = {
+	color = rgb { 153 88 70 }
+	color_ui = rgb { 153 88 70 }
+}
+CAT = {
+	color = rgb { 138 73 54 }
+	color_ui = rgb { 138 73 54 }
 }
