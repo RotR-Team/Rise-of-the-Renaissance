@@ -26,7 +26,7 @@ set_popularities = {
 add_ideas = {
     OTO_janissaries
     OTO_the_timar_system
-    OTO_albanian_struggle
+    OTO_the_albanian_struggle
 }
 
 declare_war_on = {
