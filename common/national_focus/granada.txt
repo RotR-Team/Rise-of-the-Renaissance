@@ -1,11 +1,22 @@
 focus_tree = {
-	id = analysing_our_defeats
+	id = granada_focus
 
 	country = {
 		base = 0
 		modifier = {
 			add = 10
 			tag = emg
+		}
+	}
+
+	focus = {
+		id = analyzing_our_defeats
+		icon = 
+		cost = 5
+		x = 1
+		y = 0
+		completion_reward = {
+			add_command_power = 25
 		}
 	}
 }
