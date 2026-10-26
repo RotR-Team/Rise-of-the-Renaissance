@@ -11,7 +11,7 @@ focus_tree = {
 
 	focus = {
 		id = analyzing_our_defeats
-		icon = 
+		icon = GFX_analyzing_our_defeats
 		cost = 5
 		x = 1
 		y = 0
