@@ -6444,7 +6444,7 @@
 6443;86;20;244;sea;true;ocean;0
 6444;86;21;46;land;false;forest;1
 6445;86;21;151;land;true;plains;1
-6446;86;21;196;land;true;plains;1
+6446;86;21;196;land;false;plains;1
 6447;86;21;232;sea;false;ocean;0
 6448;86;22;240;sea;false;ocean;0
 6449;86;24;11;land;true;urban;1
