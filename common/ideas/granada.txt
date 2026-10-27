@@ -1,7 +1,7 @@
 ideas = {
 	country = {
 		EMG_the_treaty_of_jaen = {
-			picture = idea_hun_treaty_of_trianon
+			picture = GFX_idea_EMG_the_treaty_of_jaen
 
 			allowed = {
 				tag = EMG
