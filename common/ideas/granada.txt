@@ -1,4 +1,4 @@
-idea = {
+ideas = {
 	country = {
 		EMG_the_treaty_of_jaen = {
 			picture = idea_hun_treaty_of_trianon
