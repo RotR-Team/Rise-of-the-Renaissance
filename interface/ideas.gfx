@@ -1,5 +1,9 @@
 spriteTypes = {	
-
+        SpriteType = {
+		name = GFX_idea_EMG_the_treaty_of_jaen
+		texturefile = "gfx/interface/ideas/EMG_the_treaty_of_jaen.dds"
+		noOfFrames = 1
+	}
 	   	SpriteType = {
    		name = "GFX_idea_BYZ_a_crumbling_empire"
    		texturefile = "gfx/interface/ideas/BYZ_a_crumbling_empire.dds"
