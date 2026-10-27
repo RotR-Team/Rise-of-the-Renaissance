@@ -5,7 +5,7 @@ focus_tree = {
 		base = 0
 		modifier = {
 			add = 10
-			tag = emg
+			tag = EMG
 		}
 	}
 
@@ -13,10 +13,13 @@ focus_tree = {
 		id = analyzing_our_defeats
 		icon = GFX_analyzing_our_defeats
 		cost = 5
-		x = 1
+		x = 25
 		y = 0
 		completion_reward = {
 			add_command_power = 25
 		}
+	}
+	focus = {
+		id = 
 	}
 }

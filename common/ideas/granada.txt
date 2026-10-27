@@ -1,0 +1,14 @@
+idea = {
+	country = {
+		EMG_the_treaty_of_jaen = {
+			picture = idea_hun_treaty_of_trianon
+
+			modifier = {
+				production_speed_buildings_factor = -0.2
+				consumer_goods_factor = 0.1
+				conscription = -0.1
+				production_factory_max_efficiency_factor = -0.5
+			}
+		}
+	}
+}
