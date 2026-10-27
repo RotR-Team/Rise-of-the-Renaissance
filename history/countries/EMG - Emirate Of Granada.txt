@@ -27,3 +27,7 @@ set_popularities = {
     communism = 0
     neutrality = 0
 }
+
+add_ideas = {
+    EMG_the_treaty_of_jaen
+}

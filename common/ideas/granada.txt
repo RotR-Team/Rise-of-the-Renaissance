@@ -3,6 +3,10 @@ idea = {
 		EMG_the_treaty_of_jaen = {
 			picture = idea_hun_treaty_of_trianon
 
+			allowed = {
+				tag = EMG
+			}
+
 			modifier = {
 				production_speed_buildings_factor = -0.2
 				consumer_goods_factor = 0.1
