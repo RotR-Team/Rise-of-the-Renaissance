@@ -1,0 +1,14 @@
+character = {
+	CST_john_ii = {
+		name = CST_john_ii
+		portraits = {
+			civilian = {
+				large = GFX_rotr_portrait_CST_john_ii
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = 1454.7.20
+		}
+	}
+}

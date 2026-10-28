@@ -1,6 +1,11 @@
 capital = 88
+set_research_slots = 3
+set_convoys = 0
+set_stability = 0.75
+set_war_support = 0.6
 add_ideas = POL_lit_alliance
 recruit_character = POL_casimir_iv
+
 create_faction = "Polish-Lithuanian Alliance"
 add_to_faction = LIT
 set_politics = {

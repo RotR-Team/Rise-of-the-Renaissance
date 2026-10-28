@@ -1,4 +1,8 @@
 capital = 784
+set_research_slots = 3
+set_convoys = 0
+set_stability = 0.75
+set_war_support = 0.6
 add_ideas = POL_lit_alliance
 recruit_character = LIT_casimir_iv
 

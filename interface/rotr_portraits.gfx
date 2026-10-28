@@ -1,6 +1,10 @@
 spriteTypes = {
-		spriteType = {
-		name = GFX_portrait_Giorgio_Scanderbeg
+    spriteType = {
+        name = GFX_portrait_CST_john_ii
+	    texturefile = "gfx/leaders/CST/CST_john_ii.dds"
+	}
+	spriteType = {
+	    name = GFX_portrait_Giorgio_Scanderbeg
 		texturefile = "gfx/leaders/ALB/Giorgio_Scanderbeg.dds"
 	}
 	spriteType = {
