@@ -2,10 +2,11 @@ state = {
     id = 118
     name = STATE_118
     manpower = 21372
-    state_category = enclave
+    state_category = town
     history = {
         1450.1.1 = {
-        	victory_points = { 4135 10 }
+        	victory_points = { 4135 5 }
+                victory_points = { 9979 10 }
         	buildings = {
             		infrastructure = 3
             		air_base = 2
@@ -18,6 +19,6 @@ state = {
 		add_core_of = EMG
         }
     }
-    provinces = { 4135 }
+    provinces = { 4135 4182 7153 9979 10009 }
     local_supplies = 0.0
 }
