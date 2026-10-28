@@ -1,0 +1,21 @@
+state = {
+	id = 1128
+	name="STATE_1128"
+	manpower = 500000
+	state_category = rural
+
+	history = {
+		owner = CST
+		add_core_of = CST
+		add_claim_by = EMG
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		9828 12083 950 10111 12081
+	}
+
+	local_supplies = 1
+}

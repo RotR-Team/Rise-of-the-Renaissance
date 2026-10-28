@@ -4,16 +4,12 @@ state = {
     manpower = 11043
     state_category = pastoral
     history = {
-        victory_points = { 12857 1 }
-        owner = CST
+        owner = MOR
         add_core_of = MOR
         buildings = {
             infrastructure = 1
-            12857 = {
-                naval_base = 1
-            }
         }
     }
-    provinces = { 12857 }
+    provinces = { 1102 }
     local_supplies = 0.0
 }

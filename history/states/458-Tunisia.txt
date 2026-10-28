@@ -7,7 +7,7 @@ state = {
         steel = 31
     }
     history = {
-        owner = FRA
+        owner = TUN
         add_core_of = TUN
         victory_points = { 11969 10 }
         victory_points = { 9994 1 }
