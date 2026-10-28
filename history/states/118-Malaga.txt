@@ -19,6 +19,6 @@ state = {
 		add_core_of = EMG
         }
     }
-    provinces = { 4135 4182 7153 9979 10009 }
+    provinces = { 4135 4182 7153 7198 9979 10009 10094 13231 }
     local_supplies = 0.0
 }

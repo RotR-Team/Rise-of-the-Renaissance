@@ -1,0 +1,23 @@
+state = {
+	id = 1129
+	name="STATE_1129"
+	manpower = 500000
+	state_category = rural
+
+	history = {
+		owner = RIF
+		add_core_of = RIF
+		add_core_of = MOR
+		victory_points = { 12087 1 }
+		victory_points = { 9945 3 }
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		9945 12087 10113
+	}
+
+	local_supplies = 1
+}

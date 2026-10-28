@@ -434,7 +434,25 @@ AGV = "countries/Iberia/Algarve.txt"
 TOL = "countries/Iberia/Toledo.txt"
 VLN = "countries/Iberia/Valencia.txt"
 VIS = "countries/Iberia/Viscaya.txt"
+ASU = "countries/Iberia/Asturias.txt"
 #---|IBERIA|---|IBERIA|---|IBERIA|---|IBERIA|---|IBERIA|---|IBERIA|---|IBERIA|---|IBERIA|---|IBERIA|---|IBERIA|---|IBERIA|---|IBERIA|---|IBERIA|---|IBERIA|---|IBERIA|---#
+#
+#
+#
+#---|NORTH AFRICA|---|NORTH AFRICA|---|NORTH AFRICA|---|NORTH AFRICA|---|NORTH AFRICA|---|NORTH AFRICA|---|NORTH AFRICA|---|NORTH AFRICA|---|NORTH AFRICA|---|NORTH AFRICA|---#
+SUS = "countries/North Africa/Sus.txt"
+TLC = "countries/North Africa/Tlemcen.txt"
+GAF = "countries/North Africa/Gafsa.txt"
+BIS = "countries/North Africa/Biskra.txt"
+MZA = "countries/North Africa/Mzab.txt"
+TOU = "countries/North Africa/Touggourt.txt"
+OUA = "countries/North Africa/Ouargla.txt"
+GHD = "countries/North Africa/Ghadames.txt"
+DJE = "countries/North Africa/Djerid.txt"
+#---|NORTH AFRICA|---|NORTH AFRICA|---|NORTH AFRICA|---|NORTH AFRICA|---|NORTH AFRICA|---|NORTH AFRICA|---|NORTH AFRICA|---|NORTH AFRICA|---|NORTH AFRICA|---|NORTH AFRICA|---#
+#
+#
+#
 BYZ = "countries/BYZ - Eastern Roman Empire.txt"
 TTO = "countries/TTO - The Teutonic Order.txt"
 MEG = "countries/MEG - Mamluk Egypt.txt"
