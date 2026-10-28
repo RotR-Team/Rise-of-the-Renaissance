@@ -20,6 +20,29 @@ focus_tree = {
 		}
 	}
 	focus = {
-		id = 
+		id = destroy_the_pretender
+		icon_ = GFX_destroy_the_pretender
+		relative_position_id = analyzing_our_defeats
+		prerequisite = { focus = analyzing_our_defeats }
+		cost = 5
+		x = -13
+		y = 1
+		completion_reward = {
+			war_support_factor = 0.1
+		}
+		mutually_exclusive = { focus = the_true_sultan }
+	}
+	focus = {
+		id = the_true_sultan
+		icon = GFX_the_true_sultan
+		relative_position_id = analyzing_our_defeats
+		prerequisite = { focus = analyzing_our_defeats }
+		cost = 5
+		x = 13
+		y = 1
+		completion_reward = {
+			war_support_factor = 0.1
+		}
+		mutually_exclusive = { focus = destroy_the_pretender }
 	}
 }
