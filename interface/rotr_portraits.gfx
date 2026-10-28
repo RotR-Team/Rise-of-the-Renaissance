@@ -1,6 +1,6 @@
 spriteTypes = {
     spriteType = {
-        name = GFX_portrait_CST_john_ii
+        name = GFX_portrait_cst_character_1
 	    texturefile = "gfx/leaders/CST/CST_john_ii.dds"
 	}
 	spriteType = {

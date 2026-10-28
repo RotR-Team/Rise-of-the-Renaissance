@@ -3,7 +3,7 @@ set_research_slots = 3
 set_convoys = 0
 set_stability = 0.8
 set_war_support = 0.75
-recruit_character = CST_john_ii
+recruit_character = cst_character_1
 
 set_politics = {
     ruling_party = neutrality
