@@ -8,7 +8,7 @@ state = {
         add_core_of = EMG
         1450.1.1 = {
         	victory_points = { 12038 1 }
-        	victory_points = { 1176 3 }
+        	victory_points = { 1176 10 }
         }
     }
     provinces = { 747 1176 1192 4065 4095 7196 11956 12038 }
