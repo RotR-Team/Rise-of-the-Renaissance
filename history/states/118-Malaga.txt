@@ -12,10 +12,7 @@ state = {
         	buildings = {
             		infrastructure = 3
             		air_base = 2
-            		4135 = {
-                		naval_base = 5
-                		coastal_bunker = 2
-            		}
+            		
         	}                
                 owner = EMG       
 		add_core_of = EMG
