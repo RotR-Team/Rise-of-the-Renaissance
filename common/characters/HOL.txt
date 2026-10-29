@@ -1,0 +1,14 @@
+character = {
+	HOL_philip_i = {
+		name = HOL_philip_i
+		portraits = {
+			civilian = {
+				large = GFX_rotr_portrait_HOL_philip_i
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = 1467.6.15
+		}
+	}
+}
