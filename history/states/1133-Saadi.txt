@@ -1,0 +1,20 @@
+state = {
+	id = 1133
+	name="STATE_1133"
+	manpower = 500000
+	state_category = rural
+
+	history = {
+		owner = MOR
+		add_core_of = MOR
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		 13423 13424 1958 13425 13426 13427 13428 13429
+	}
+
+	local_supplies = 1
+}

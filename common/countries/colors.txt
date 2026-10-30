@@ -1230,11 +1230,6 @@ BYZ = {
 	color_ui = rgb { 160 0 134 }
 }
 
-AAA = {
-	color = rgb { 0 0 0 }
-	color_ui = rgb { 0 0 0 }
-}
-
 TTO = {
 	color = rgb { 118 116 125 }
 	color_ui = rgb { 118 116 125 }
