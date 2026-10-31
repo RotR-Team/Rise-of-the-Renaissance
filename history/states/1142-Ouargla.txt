@@ -1,0 +1,20 @@
+state = {
+	id = 1142
+	name="STATE_1142"
+	manpower = 100000
+	state_category = rural
+
+	history = {
+		owner = OUA
+		add_core_of = OUA
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		 13451 13452 13453
+	}
+
+	local_supplies = 1
+}

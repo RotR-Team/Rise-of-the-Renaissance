@@ -1,0 +1,20 @@
+state = {
+	id = 1143
+	name="STATE_1143"
+	manpower = 100000
+	state_category = rural
+
+	history = {
+		owner = TOU
+		add_core_of = TOU
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		 13454 4970
+	}
+
+	local_supplies = 1
+}
