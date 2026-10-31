@@ -8,8 +8,8 @@ state = {
         coal = 2
     }
     history = {
-        owner = FRA
-        add_core_of = ALG
+        owner = TLC
+        add_core_of = TLC
         victory_points = { 1145 5 }
         victory_points = { 7132 5 }
         buildings = {

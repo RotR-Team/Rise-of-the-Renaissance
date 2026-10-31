@@ -1,0 +1,21 @@
+state = {
+	id = 1138
+	name="STATE_1138"
+	manpower = 100000
+	state_category = rural
+
+	history = {
+		owner = BIS
+		add_core_of = BIS
+		add_core_of = TUN
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		 13440 13441 13442 13443
+	}
+
+	local_supplies = 1
+}

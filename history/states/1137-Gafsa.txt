@@ -1,0 +1,21 @@
+state = {
+	id = 1137
+	name="STATE_1137"
+	manpower = 100000
+	state_category = rural
+
+	history = {
+		owner = GAF
+		add_core_of = GAF
+		add_core_of = TUN
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		 11935 13179 10082 13145 3987 9943 13438 13439
+	}
+
+	local_supplies = 1
+}
