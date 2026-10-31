@@ -1,0 +1,21 @@
+state = {
+	id = 1141
+	name="STATE_1141"
+	manpower = 100000
+	state_category = rural
+
+	history = {
+		owner = MZA
+		add_core_of = MZA
+		add_core_of = TUN
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		 5053 1967 13449 13450
+	}
+
+	local_supplies = 1
+}
