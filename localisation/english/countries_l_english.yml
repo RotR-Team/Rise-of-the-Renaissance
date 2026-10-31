@@ -5930,8 +5930,8 @@
  EMG_DEF: "Granadan"
 
  ENG: "England"
- ENG_ADJ: "Kingdom of England"
- ENG_DEF: "England"
+ ENG_ADJ: "English"
+ ENG_DEF: "Kingdom of England"
  ENG_fascism_party: "House Of York"
  ENG_fascism_party_long: "House Of York"
  ENG_neutrality_party: "House Of Lancaster"
