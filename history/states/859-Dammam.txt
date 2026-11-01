@@ -6,15 +6,7 @@ state = {
         oil = 3.000
     }
     history = {
-        owner = SAU
-        add_core_of = SAU
-        victory_points = { 12702 1 }
-        buildings = {
-            infrastructure = 1
-            12702 = {
-                naval_base = 6
-            }
-        }
+        owner = AAA
     }
     provinces = { 1955 10791 10850 12702 }
     state_category = rural

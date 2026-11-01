@@ -1,0 +1,15 @@
+state = {
+    id = 1149
+    name = STATE_1149
+    manpower = 4224516
+    state_category = rural
+    history = {
+        owner = MEG
+        buildings = {
+            infrastructure = 2
+        }
+        add_core_of = MEG
+    }
+    provinces = { 13470 7671 1072 }
+    local_supplies = 0.0
+}

@@ -10,7 +10,7 @@ state = {
         }
     }
     state_category = pastoral
-    provinces = {    7005  10026   11957    }
+    provinces = {    7005  10026   11957   13455 12039 }
     manpower = 427824
     buildings_max_level_factor = 1.000
     local_supplies = 0.0

@@ -449,7 +449,15 @@ TOU = "countries/North Africa/Touggourt.txt"
 OUA = "countries/North Africa/Ouargla.txt"
 GHD = "countries/North Africa/Ghadames.txt"
 DJE = "countries/North Africa/Djerid.txt"
+CYR = "countries/North Africa/Cyrenaica.txt"
 #---|NORTH AFRICA|---|NORTH AFRICA|---|NORTH AFRICA|---|NORTH AFRICA|---|NORTH AFRICA|---|NORTH AFRICA|---|NORTH AFRICA|---|NORTH AFRICA|---|NORTH AFRICA|---|NORTH AFRICA|---#
+#
+#
+#
+#---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---#
+QOY = "countries/Middle East/Qara Qoyunlu.txt"
+HEW = "countries/Middle East/Hewler.txt"
+#---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---#
 #
 #
 #

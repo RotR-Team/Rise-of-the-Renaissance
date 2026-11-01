@@ -1512,21 +1512,11 @@
  EGY: "Egypt"
  EGY_DEF: "Egypt"
  EGY_ADJ: "Egyptian"
- LBA_fascism: "Africa Nova"
- LBA_fascism_DEF: "Africa Nova"
- LBA_democratic: "Libyan Electorate"
- LBA_democratic_DEF: "the Libyan Electorate"
- LBA_neutrality: "Kingdom of Libya"
- LBA_neutrality_DEF: "the Kingdom of Libya"
- LBA_communism: "Libyan Socialist Republic"
- LBA_communism_DEF: "the Libyan Socialist Republic"
- LBA_fascism_ADJ: "Libyan"
- LBA_democratic_ADJ: "Libyan"
- LBA_neutrality_ADJ: "Libyan"
- LBA_communism_ADJ: "Libyan"
- LBA: "Libya"
- LBA_DEF: "Libya"
- LBA_ADJ: "Libyan"
+
+ LBA: "Tripolitania"
+ LBA_DEF: "Tripolitania"
+ LBA_ADJ: "Tripolitanian"
+
  WGR_fascism: "Fourth Reich"
  WGR_fascism_DEF: "the Fourth Reich"
  WGR_democratic: "Federal Republic of Germany"
@@ -5937,7 +5927,7 @@
  ENG_neutrality_party: "House Of Lancaster"
  ENG_neutrality_party_long: "House Of Lancaster"
 
- MEG: "Mamlūk Egypt"
+ MEG: "Egypt"
  MEG_ADJ: "Mamlūk Sultanate of Egypt"
  MEG_DEF: "Egyptian"
 
@@ -6043,3 +6033,9 @@
  GHD: "Ghadames"
 
  DJE: "Djerid"
+
+ CYR: "Cyrenaica"
+
+ QOY: "Qara Qoyunlu"
+
+ HEW: "Hewlêr"

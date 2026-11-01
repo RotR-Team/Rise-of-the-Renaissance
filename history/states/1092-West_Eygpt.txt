@@ -7,5 +7,5 @@ state = {
         owner = MEG
         add_core_of = MEG
     }
-    provinces = { 1206 7216 10097 10127 10844 12099 12771 }
+    provinces = {  7216 10097 10127  12099  }
 }

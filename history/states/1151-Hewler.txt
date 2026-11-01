@@ -1,0 +1,15 @@
+state = {
+    id = 1151
+    name = STATE_1151
+    manpower = 4224516
+    state_category = rural
+    history = {
+        owner = HEW
+        buildings = {
+            infrastructure = 2
+        }
+        add_core_of = HEW
+    }
+    provinces = { 13465 1463 12476  }
+    local_supplies = 0.0
+}

@@ -1,0 +1,15 @@
+state = {
+    id = 1150
+    name = STATE_1150
+    manpower = 4224516
+    state_category = rural
+    history = {
+        owner = QOY
+        buildings = {
+            infrastructure = 2
+        }
+        add_core_of = QOY
+    }
+    provinces = { 3942 1606 6883 1634 1578 2013 901 }
+    local_supplies = 0.0
+}

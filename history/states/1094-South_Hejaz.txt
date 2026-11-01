@@ -7,5 +7,5 @@ state = {
         owner = MEG
         add_core_of = MEG
     }
-    provinces = { 1923 2033 5037 12883 }
+    provinces = {  2033  12883   }
 }

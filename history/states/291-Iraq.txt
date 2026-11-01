@@ -7,9 +7,8 @@ state = {
         oil = 15
     }
     history = {
-        owner = IRQ
-        add_core_of = IRQ
-        add_claim_by = KUR
+        owner = QOY
+        add_core_of = QOY
         victory_points = { 2097 10 }
         victory_points = { 7994 1 }
         victory_points = { 3795 2 }
