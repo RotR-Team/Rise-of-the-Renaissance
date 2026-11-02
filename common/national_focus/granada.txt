@@ -10,10 +10,10 @@ focus_tree = {
 	}
 
 	focus = {
-		id = analyzing_our_defeats
-		icon = GFX_analyzing_our_defeats
+		id = the_2_sultans
+		icon = GFX_the_2_sultans
 		cost = 5
-		x = 13
+		x = 0
 		y = 0
 		completion_reward = {
 			add_command_power = 25
@@ -22,8 +22,8 @@ focus_tree = {
 	focus = {
 		id = destroy_the_pretender
 		icon_ = GFX_destroy_the_pretender
-		relative_position_id = analyzing_our_defeats
-		prerequisite = { focus = analyzing_our_defeats }
+		relative_position_id = the_2_sultans
+		prerequisite = { focus = the_2_sultans }
 		cost = 5
 		x = -13
 		y = 1
@@ -35,13 +35,29 @@ focus_tree = {
 	focus = {
 		id = the_true_sultan
 		icon = GFX_the_true_sultan
-		relative_position_id = analyzing_our_defeats
-		prerequisite = { focus = analyzing_our_defeats }
+		relative_position_id = the_2_sultans
+		prerequisite = { focus = the_2_sultans }
 		cost = 5
 		x = 13
 		y = 1
 		completion_reward = {
 			war_support_factor = 0.1
+		}
+		mutually_exclusive = { focus = destroy_the_pretender }
+	}
+	focus = {
+		id = contact_muhammad_x
+		icon = GFX_contact_muhammad_x
+		relative_position_id = the_true_sultan
+		prerequisite = { focus = the_true_sultan }
+		cost = 5
+		x = 0
+		y = 2
+		completion_reward = {
+			news_event = {
+				id = talks_with_muhammad_x.1
+				days = 1
+			}
 		}
 		mutually_exclusive = { focus = destroy_the_pretender }
 	}
