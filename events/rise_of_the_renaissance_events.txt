@@ -43,8 +43,8 @@ add_namespace = talks_with_muhammad_x
 
 country_event = {
     id = talks_with_muhammad_x.1
-    title = talks_with_muhammad_x.t
-    desc = talks_with_muhammad_x.d
+    title = Talks With Muhammad X.t
+    desc = After Some Talks Between Ismaill III And Muhammad X He Has Agreed To Support Us For When Ismaill III Launches His Revolt And Muhammad X Will Lead Our Armys.d
     picture = GFX_report_event_generic
     is_triggered_only = no
     fire_only_once = 
