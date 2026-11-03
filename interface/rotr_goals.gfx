@@ -18,4 +18,9 @@ spriteTypes = {
 		name = GFX_rotr_goal_ENG_house_of_york
 		texturefile = "gfx/interface/goals/eng/rotr_goal_ENG_house_of_york.dds"
 	}
+	#EMG
+	spriteType = {
+		name = GFX_rotr_goal_EMG_secure_castillian_support
+		texturefile = "gfx/interface/goals/emg/rotr_goal_EMG_secure_castilian_support.dds"
+	}
 }

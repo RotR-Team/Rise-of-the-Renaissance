@@ -53,7 +53,7 @@ country_event = {
     }
 
     option = {
-        name = perfect
+        name = Perfect
         
     }
 }

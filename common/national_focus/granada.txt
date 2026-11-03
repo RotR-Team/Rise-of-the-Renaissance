@@ -61,4 +61,17 @@ focus_tree = {
 		}
 		mutually_exclusive = { focus = destroy_the_pretender }
 	}
+	focus = {
+		id = secure_castillian_support
+		icon = GFX_secure_castillian_support
+		relative_position_id = contact_muhammad_x
+		prerequisite = { focus = contact_muhammad_x }
+		cost = 5
+		x = 0
+		y = 2
+		completion_reward = {
+			war_support_factor = 0.1
+		}
+		mutually_exclusive = { focus = destroy_the_pretender }
+	}
 }
