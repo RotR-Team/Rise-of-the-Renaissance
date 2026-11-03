@@ -63,7 +63,7 @@ focus_tree = {
 	}
 	focus = {
 		id = secure_castillian_support
-		icon = GFX_secure_castillian_support
+		icon = GFX_rotr_goal_EMG_secure_castillian_support
 		relative_position_id = contact_muhammad_x
 		prerequisite = { focus = contact_muhammad_x }
 		cost = 5
