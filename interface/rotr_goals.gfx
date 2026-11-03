@@ -21,6 +21,6 @@ spriteTypes = {
 	#EMG
 	spriteType = {
 		name = GFX_rotr_goal_EMG_secure_castillian_support
-		texturefile = "gfx/interface/goals/emg/rotr_goal_EMG_secure_castilian_support.dds"
+		texturefile = "gfx/interface/goals/emg/rotr_goal_EMG_secure_castillian_support.dds"
 	}
 }
