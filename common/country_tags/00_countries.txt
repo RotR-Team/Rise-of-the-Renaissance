@@ -447,7 +447,7 @@ BIS = "countries/North Africa/Biskra.txt"
 MZA = "countries/North Africa/Mzab.txt"
 TOU = "countries/North Africa/Touggourt.txt"
 OUA = "countries/North Africa/Ouargla.txt"
-GHD = "countries/North Africa/Ghadames.txt"
+#GHD = "countries/North Africa/Ghadames.txt"
 DJE = "countries/North Africa/Djerid.txt"
 CYR = "countries/North Africa/Cyrenaica.txt"
 #---|NORTH AFRICA|---|NORTH AFRICA|---|NORTH AFRICA|---|NORTH AFRICA|---|NORTH AFRICA|---|NORTH AFRICA|---|NORTH AFRICA|---|NORTH AFRICA|---|NORTH AFRICA|---|NORTH AFRICA|---#
@@ -457,6 +457,10 @@ CYR = "countries/North Africa/Cyrenaica.txt"
 #---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---#
 QOY = "countries/Middle East/Qara Qoyunlu.txt"
 HEW = "countries/Middle East/Hewler.txt"
+BIT = "countries/Middle East/Bitlis.txt"
+GIL = "countries/Middle East/Gilan.txt"
+EGI = "countries/Middle East/Egil.txt"
+AGQ = "countries/Middle East/Ag Qoyunlu.txt"
 #---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---#
 #
 #

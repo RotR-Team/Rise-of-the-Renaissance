@@ -4,29 +4,14 @@ state = {
     manpower = 262095
     state_category = rural
     history = {
-        owner = TUR
-        victory_points = { 12476 1 }
-        victory_points = { 7530 1 }
-        victory_points = { 10497 1 }
+        owner = KUR
+	victory_points = { 6935 5 }
+        
         buildings = {
             infrastructure = 1
         }
-        if = {
-            limit = {
-                has_dlc = "Battle for the Bosporus"
-            }
-            add_core_of = KUR
-        }
-        if = {
-            limit = {
-                NOT = {
-                    has_dlc = "Battle for the Bosporus"
-                }
-            }
-            add_core_of = TUR
-            add_core_of = KUR
-        }
+	add_core_of = KUR
     }
-    provinces = { 864  7530 10497 12318  10399 9858 }
+    provinces = { 864   6935 13471 }
     local_supplies = 0.0
 }

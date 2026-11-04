@@ -3257,21 +3257,11 @@
  COR: "Corsica"
  COR_DEF: "Corsica"
  COR_ADJ: "Corsican"
- KUR_neutrality: "Kingdom of Kurdistan"
- KUR_neutrality_ADJ: "Kurdistani"
- KUR_neutrality_DEF: "the Kingdom of Kurdistan"
- KUR_communism: "Socialist Republic of Kurdistan"
- KUR_communism_ADJ: "Kurdistani"
- KUR_communism_DEF: "the Socialist Republic of Kurdistan"
- KUR_fascism: "Xoybun Kurdistan"
- KUR_fascism_ADJ: "Kurdistani"
- KUR_fascism_DEF: "the Kurdistani State"
- KUR_democratic: "Kurdistan"
- KUR_democratic_ADJ: "Kurdistani"
- KUR_democratic_DEF: "Kurdistan"
- KUR: "Kurdistan"
- KUR_ADJ: "Kurdistani"
- KUR_DEF: "Kurdistan"
+
+ KUR: "Ḧekarí"
+ KUR_ADJ: "Hakkari"
+ KUR_DEF: "Ḧekarí"
+
  KOS_fascism: "Dardania"
  KOS_fascism_DEF: "Dardania"
  KOS_ITA_fascism_subject: "Governorate of Prishtina"
@@ -6039,3 +6029,9 @@
  QOY: "Qara Qoyunlu"
 
  HEW: "Hewlêr"
+
+ BIT: "Bitlis"
+
+ EGI: "Eğil"
+
+ AGQ: "Ağ Qoyunlu"

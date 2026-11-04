@@ -2,9 +2,11 @@ state = {
     id = 350
     name = STATE_350
     history = {
-        
+        owner = AGQ
+	add_core_of = AGQ
+	add_core_of = QOY
     }
-    provinces = { 4512 12387 12416 }
+    provinces = { 4512 12387 12416 7530 }
     manpower = 571935
     state_category = town
     local_supplies = 0.0

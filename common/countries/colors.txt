@@ -187,6 +187,10 @@ JAP = {
 	color = hsv { 0.05 0.3 1 }
 	color_ui = hsv { 0.05 0.25 1.2 }
 }
+LBA = {
+	color = rgb { 89 143 158 }
+	color_ui = rgb { 89 143 158 }
+}
 LIB = {
 	color = rgb { 152 130 191 }
 	color_ui = rgb { 198 169 248 }
@@ -1096,10 +1100,6 @@ BLC = {
 	color = rgb { 77 153 0 }
 	color_ui = rgb { 38 77 0 }
 }
-KUR = {
-	color = rgb { 234 179 30 }
-	color_ui = rgb { 255 153 0 }
-}
 EZO = {
 	color = rgb { 102 102 153 }
 	color_ui = rgb { 71 71 107 }
@@ -1231,7 +1231,6 @@ TTO = {
 	color = rgb { 118 116 125 }
 	color_ui = rgb { 118 116 125 }
 }
-
 
 OTO = {
 	color = rgb { 105 0 17 }

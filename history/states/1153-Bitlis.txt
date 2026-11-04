@@ -1,0 +1,16 @@
+state = {
+    id = 1153
+    name = STATE_1153
+    manpower = 4224516
+    state_category = rural
+    history = {
+        owner = BIT
+        buildings = {
+            infrastructure = 2
+        }
+	victory_points = { 10497 1 }
+        add_core_of = BIT
+    }
+    provinces = { 12318 10497 9858 11880 13121  }
+    local_supplies = 0.0
+}

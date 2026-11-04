@@ -4,6 +4,11 @@ state = {
     manpower = 100000
     state_category = rural
     history = {
+	owner = EGI
+	add_core_of = EGI
+	buildings = {
+		infrastructure = 2
+	}
     }
-    provinces = { 9823  11759 11871  }
+    provinces = { 9823  11759 11871 7620 }
 }
