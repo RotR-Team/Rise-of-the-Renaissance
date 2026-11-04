@@ -461,6 +461,7 @@ BIT = "countries/Middle East/Bitlis.txt"
 GIL = "countries/Middle East/Gilan.txt"
 EGI = "countries/Middle East/Egil.txt"
 AGQ = "countries/Middle East/Ag Qoyunlu.txt"
+TRE = "countries/Middle East/Trebizond.txt"
 #---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---#
 #
 #
