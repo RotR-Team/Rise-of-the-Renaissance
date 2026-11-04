@@ -1,0 +1,10 @@
+characters {
+	TRE_john_iv = {
+		name = TRE_john_iv
+		portraits = {
+			civilian = {
+			large = GFX_rotr_portrait_TRE_john_iv	
+		}
+	}
+}
+}
