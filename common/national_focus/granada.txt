@@ -74,4 +74,17 @@ focus_tree = {
 		}
 		mutually_exclusive = { focus = destroy_the_pretender }
 	}
+	focus = {
+		id = seize_malaga
+		icon = GFX_seize_malaga
+		relative_position_id = secure_castillian_support
+		prerequisite = { focus = secure_castillian_support }
+		cost = 5
+		x = 0
+		y = 2
+		mutually_exclusive = { focus = destroy_the_pretender }
+		completion_reward = {
+			
+		}
+	}
 }

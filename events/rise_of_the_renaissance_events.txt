@@ -11,7 +11,7 @@ country_event = {
         has_completed_focus = the_question_of_succession
     }
     mean_time_to_happen = {
-        days = 0
+        days = 1
     }
     option = {
         name = answering_the_succsession_issue.1.a
@@ -54,6 +54,28 @@ country_event = {
 
     option = {
         name = Perfect
+        
+    }
+}
+
+add_namespace = ismaill_iii_seizes_malaga
+
+country_event = {
+    id = ismaill_iii_seizes_malaga.1
+    title = ismaill_iii_seizes_malaga.t
+    desc = ismaill_iii_seizes_malaga.d
+    picture = GFX_report_event_generic
+    is_triggered_only = no
+    fire_only_once = yes
+    trigger = {
+        has_completed_focus = seize_malaga
+    }
+
+    option = {
+        name = ismaill_iii_seizes_malaga.1.a
+        118 = {
+            set_demilitarized_zone = yes
+        }
         
     }
 }
