@@ -1,4 +1,5 @@
 characters = {
+
 	sco_character_1 = {
 		name = sco_character_1
 		portraits = {
@@ -149,6 +150,5 @@ characters = {
 			ideology = centrism
 			expire = "1965.1.1"
 			id = -1
-		}
 	}
 }

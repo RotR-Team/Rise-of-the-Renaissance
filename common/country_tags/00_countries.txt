@@ -473,6 +473,7 @@ MEG = "countries/MEG - Mamluk Egypt.txt"
 OTO = "countries/OTO - The Ottoman Empire.txt"
 MNG = "countries/MNG - Ming Empire.txt"
 EMG = "countries/EMG - Emirate Of Granada.txt"
+CRI = "countries/CRI - Crimean Khanate.txt"
 
 CST = "countries/WestEurope.txt"
 MIL = "countries/WestEurope.txt"

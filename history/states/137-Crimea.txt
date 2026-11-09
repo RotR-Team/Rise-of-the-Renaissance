@@ -4,7 +4,7 @@ state = {
     manpower = 1061607
     state_category = city
     history = {
-        owner = SOV
+        owner = CRI
         victory_points = { 3686 20 }
         victory_points = { 9680 1 }
         victory_points = { 6704 1 }
@@ -28,7 +28,6 @@ state = {
                 coastal_bunker = 1
             }
         }
-        add_core_of = SOV
         add_core_of = CRI
     }
     provinces = { 705 3686 3722 6704 6724 9677 9680 9718 11649 }

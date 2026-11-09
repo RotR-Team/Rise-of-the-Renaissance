@@ -1,0 +1,11 @@
+characters = {
+	CRI_haci_i_giray = {
+		name = CRI_haci_i_giray
+		portraits = {
+			civilian = {
+			large = GFX_rotr_portrait_CRI_haci_i_giray	
+			}
+
+		}
+	}
+}
