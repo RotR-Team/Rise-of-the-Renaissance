@@ -1,5 +1,5 @@
 capital = 137
-recruit_character = 
+recruit_character = CRI_haci_i_giray
 set_politics = {
     ruling_party = neutrality
     elections_allowed = no
