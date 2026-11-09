@@ -462,6 +462,7 @@ GIL = "countries/Middle East/Gilan.txt"
 EGI = "countries/Middle East/Egil.txt"
 AGQ = "countries/Middle East/Ag Qoyunlu.txt"
 TRE = "countries/Middle East/Trebizond.txt"
+KRM = "countries/Middle East/Karaman.txt"
 #---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---|MIDDLE EAST|---#
 #
 #
