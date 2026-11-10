@@ -1355,6 +1355,6 @@ SIL = {
 }
 
 STY = {
-	color = rgb { 10 50 20 }
-	color_ui = rgb { 10 50 20 }
+	color = rgb { 8 34 4 }
+	color_ui = rgb { 8 34 4 }
 }
