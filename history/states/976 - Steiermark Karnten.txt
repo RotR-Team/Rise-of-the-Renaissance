@@ -9,8 +9,8 @@ state = {
         coal = 1
     }
     history = {
-        owner = AUS
-        add_core_of = AUS
+        owner = STY
+        add_core_of = STY
         buildings = {
             infrastructure = 3
             industrial_complex = 2
@@ -19,6 +19,6 @@ state = {
         victory_points = { 3673 3 }
         victory_points = { 11612 2 }
     }
-    provinces = { 653 3673 3674 6687 9646 9648 9650 9679 11612 }
+    provinces = { 653 668 671 3673 3674 6673 6687 6690 6691 9646 9648 9650 9679 11612 }
     local_supplies = 0.0
 }

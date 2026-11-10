@@ -474,6 +474,7 @@ OTO = "countries/OTO - The Ottoman Empire.txt"
 MNG = "countries/MNG - Ming Empire.txt"
 EMG = "countries/EMG - Emirate Of Granada.txt"
 CRI = "countries/CRI - Crimean Khanate.txt"
+STY = "countries/STY - Styria.txt"
 
 CST = "countries/WestEurope.txt"
 MIL = "countries/WestEurope.txt"
