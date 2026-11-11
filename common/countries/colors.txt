@@ -1358,3 +1358,9 @@ STY = {
 	color = rgb { 0 66 37 }
 	color_ui = rgb { 0 66 37 }
 }
+
+BRE = {
+	color = rgb { 24 24 68 }
+	color_ui = rgb { 24 24 68 }
+}
+
