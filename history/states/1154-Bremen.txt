@@ -1,6 +1,13 @@
-state={
-	id=1154
-	name="STATE_1154"
+state = {
+	id = 1154
+	name = "STATE_1154"
+	history = {
+		owner = BRE
+		add_core_of = BRE
+		buildings = {
+			infrastructure = 2
+		}
+	}
 	provinces={
 		374 3326 6349
 	}
