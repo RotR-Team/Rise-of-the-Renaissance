@@ -1365,8 +1365,8 @@ BRE = {
 }
 
 SIE = {
-	color = rgb { 25 22 2 }
-	color_ui = rgb { 25 22 2 }
+	color = rgb { 61 59 72 }
+	color_ui = rgb { 61 59 72 }
 }
 
 FLO = {
