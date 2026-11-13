@@ -17,6 +17,6 @@ state = {
 			industrial_complex = 1
 		}
 	}
-	provinces = { 506 6464 }
+	provinces = { 506 6464 9412 13205 }
 	local_supplies = 0.0
 }
