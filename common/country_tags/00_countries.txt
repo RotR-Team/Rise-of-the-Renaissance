@@ -476,6 +476,8 @@ EMG = "countries/EMG - Emirate Of Granada.txt"
 CRI = "countries/CRI - Crimean Khanate.txt"
 STY = "countries/STY - Styria.txt"
 BRE = "countries/BRE - Bremen.txt"
+SIE = "countries/SIE - Siena.txt"
+FLO = "countries/FLO - Florence.txt"
 
 CST = "countries/WestEurope.txt"
 MIL = "countries/WestEurope.txt"

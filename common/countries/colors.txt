@@ -1364,3 +1364,8 @@ BRE = {
 	color_ui = rgb { 24 24 68 }
 }
 
+SIE = {
+	color = rgb { 25 22 2 }
+	color_ui = rgb { 25 22 2 }
+}
+
