@@ -1369,3 +1369,7 @@ SIE = {
 	color_ui = rgb { 25 22 2 }
 }
 
+FLO = {
+	color = rgb { 80 6 6 }
+	color_ui = rgb { 80 6 6 }
+}
