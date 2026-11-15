@@ -9,7 +9,7 @@ state = {
         coal = 3
     }
     history = {
-        owner = FRA
+        owner = VIN
         add_core_of = VIN
         victory_points = { 4075 10 }
         victory_points = { 9948 1 }

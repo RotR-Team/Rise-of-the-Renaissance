@@ -478,6 +478,7 @@ STY = "countries/STY - Styria.txt"
 BRE = "countries/BRE - Bremen.txt"
 SIE = "countries/SIE - Siena.txt"
 FLO = "countries/FLO - Florence.txt"
+VIN = "countries/VIN - Dai Viet.txt"
 
 CST = "countries/WestEurope.txt"
 MIL = "countries/WestEurope.txt"

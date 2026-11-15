@@ -1373,3 +1373,9 @@ FLO = {
 	color = rgb { 80 6 6 }
 	color_ui = rgb { 80 6 6 }
 }
+
+VIN = {
+	color = rgb { 43 0 100 }
+	color_ui = rgb { 43 0 100 }
+}
+
