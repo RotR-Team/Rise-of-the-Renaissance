@@ -1379,3 +1379,8 @@ VIN = {
 	color_ui = rgb { 43 0 100 }
 }
 
+KOR = {
+	color = rgb { 255 96 197 }
+	color_ui = rgb { 255 96 197 }
+}
+

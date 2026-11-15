@@ -7,7 +7,7 @@ state = {
         tungsten = 10
     }
     history = {
-        owner = JAP
+        owner = KOR
         add_core_of = KOR
         buildings = {
             infrastructure = 2
