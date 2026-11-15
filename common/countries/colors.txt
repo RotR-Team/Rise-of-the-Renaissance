@@ -709,8 +709,8 @@ KAR = {
 	color_ui = rgb { 0 128 43 }
 }
 CRI = {
-	color = rgb { 255 80 80 }
-	color_ui = rgb { 204 0 0 }
+	color = rgb { 17 115 124 }
+	color_ui = rgb { 17 115 124 }
 }
 TAT = {
 	color = rgb { 255 51 0 }
@@ -1355,8 +1355,8 @@ SIL = {
 }
 
 STY = {
-	color = rgb { 0 66 37 }
-	color_ui = rgb { 0 66 37 }
+	color = rgb { 24 124 0 }
+	color_ui = rgb { 24 124 0 }
 }
 
 BRE = {
@@ -1365,8 +1365,8 @@ BRE = {
 }
 
 SIE = {
-	color = rgb { 61 59 72 }
-	color_ui = rgb { 61 59 72 }
+	color = rgb { 97 117 124 }
+	color_ui = rgb { 97 117 124 }
 }
 
 FLO = {
