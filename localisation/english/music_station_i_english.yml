@@ -1,3 +1,3 @@
 l_english:
  #This file is needed in order to allow the vanilla main theme to work alongside the kr one. The game doesnt seem to like loading the theme, having it overwritten then loading the same song under a new name. It leads to broken loc for said song.
- maintheme:0 "Husitský-chorál"
+ maintheme:0 "hoi4mainthemeallies"

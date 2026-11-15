@@ -1,6 +1,6 @@
 # MAIN THEME
 music = {
 	name = "maintheme"
-	file = "Husitský-chorál.ogg"
+	file = "hoi4mainthemeallies.ogg"
 	volume = 1
 }
