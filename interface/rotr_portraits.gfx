@@ -1,10 +1,10 @@
 spriteTypes = {
 	spriteType = {
-		name = GFX_portrait_CRI_haci_i_giray
-		texturefile = "gfx/leaders/CRI/CRI_Haci_i_Giray.dds"
+		name = GFX_rotr_portrait_CRI_haci_i_giray
+		texturefile = "gfx/leaders/CRI/CRI_haci_i_giray.dds"
 	}
 	spriteType = {
-		name = GFX_portrait_HOL_philip_i
+		name = GFX_rotr_portrait_HOL_philip_i
 		texturefile = "gfx/leaders/HOL/HOL_philip_i.dds"
 	}
     spriteType = {
