@@ -1,4 +1,4 @@
-character = {
+characters = {
 	HOL_philip_i = {
 		name = HOL_philip_i
 		portraits = {
