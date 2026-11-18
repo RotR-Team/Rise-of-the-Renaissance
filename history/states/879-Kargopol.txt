@@ -4,13 +4,13 @@ state = {
     manpower = 210177
     state_category = rural
     history = {
-        owner = SOV
+        owner = NOV
         victory_points = { 138 1 }
         buildings = {
             infrastructure = 1
         }
-        add_core_of = SOV
+        add_core_of = NOV
     }
-    provinces = { 3 18 26 72 89 127 138 3031 3086 6034 6051 6075 6109 9187 11071 11137 11178 }
+    provinces = { 3 18 26 60 72 75 81 89 127 129 138 160 163 166 3031 3057 3124 3154 3157 3160 3086 6017 6034 6051 6073 6075 6097 6109 6182 6189 9207 9102 9131 9187 9199 11103 11036 11062 11071 11137 11168 11178 11189 11213 }
     local_supplies = 0.0
 }
