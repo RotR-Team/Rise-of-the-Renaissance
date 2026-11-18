@@ -1384,3 +1384,7 @@ KOR = {
 	color_ui = rgb { 255 96 197 }
 }
 
+PSK = {
+	color = rgb { 124 103 33 }
+	color_ui = rgb { 124 103 33}
+}

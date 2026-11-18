@@ -480,6 +480,7 @@ SIE = "countries/SIE - Siena.txt"
 FLO = "countries/FLO - Florence.txt"
 VIN = "countries/VIN - Dai Viet.txt"
 KOR = "countries/KOR - Joseon Kingdom.txt"
+PSK = "countries/PSK - Pskov.txt"
 
 CST = "countries/WestEurope.txt"
 MIL = "countries/WestEurope.txt"
