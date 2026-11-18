@@ -1388,3 +1388,8 @@ PSK = {
 	color = rgb { 124 103 33 }
 	color_ui = rgb { 124 103 33}
 }
+
+NOV = {
+	color = rgb { 60 124 0 }
+	color_ui = rgb { 60 124 0 }
+}
