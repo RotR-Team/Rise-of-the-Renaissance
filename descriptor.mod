@@ -1,5 +1,5 @@
 name="Rise Of The Renaissance"
-supported_version="1.19.*"
+supported_version="1.20.*"
 replace_path="common/ai_strategy"
 replace_path="common/ai_strategy_plans"
 replace_path="common/bop"
