@@ -1393,3 +1393,8 @@ NOV = {
 	color = rgb { 60 124 0 }
 	color_ui = rgb { 60 124 0 }
 }
+
+GEN = {
+	color = rgb { 195 255 0 }
+	color_ui = rgb { 195 255 0 }
+}

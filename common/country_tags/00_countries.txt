@@ -482,6 +482,7 @@ VIN = "countries/VIN - Dai Viet.txt"
 KOR = "countries/KOR - Joseon Kingdom.txt"
 PSK = "countries/PSK - Pskov.txt"
 NOV = "countries/NOV - Novgorod.txt"
+GEN = "countries/GEN - Genoa.txt"
 
 CST = "countries/WestEurope.txt"
 MIL = "countries/WestEurope.txt"

@@ -6,7 +6,6 @@ state = {
     history = {
         owner = FLO
         victory_points = { 9907 3 }
-        victory_points = { 6973 1 }
         victory_points = { 6946 1 }
         buildings = {
             infrastructure = 4
@@ -14,12 +13,9 @@ state = {
             industrial_complex = 1
             dockyard = 3
             air_base = 2
-            6973 = {
-                naval_base = 10
-            }
         }
         add_core_of = FLO
     }
-    provinces = { 1616 6946 6973 9879 9907 11889 }
+    provinces = { 1616 6946 9879 9907 11889 }
     local_supplies = 0.0
 }

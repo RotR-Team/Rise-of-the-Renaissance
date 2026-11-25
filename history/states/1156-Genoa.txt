@@ -1,0 +1,24 @@
+state={
+	id = 1156
+	name = "STATE_1156"
+	state_category = large_city
+	history = {
+		owner = GEN
+		victory_points = { 6788 10 }
+		victory_points = { 6973 1 }
+		buildings = {
+			6788 = {
+				naval_base = 8
+			}
+			6973 = {
+                naval_base = 10
+            }
+		}
+	}
+	provinces={
+		3772 6788 6973 11891
+	}
+	manpower = 3000
+	buildings_max_level_factor=1
+	local_supplies=0
+}
