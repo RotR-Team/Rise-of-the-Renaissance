@@ -4,10 +4,8 @@ state = {
     manpower = 367500
     state_category = pastoral
     history = {
-        owner = CHI
-        add_core_of = MEN
-        add_core_of = CHI
-        add_core_of = PRC
+        owner = MNG
+        add_core_of = MNG
         buildings = {
             infrastructure = 1
             1590 = {
@@ -19,8 +17,8 @@ state = {
                 }
             }
         }
-        victory_points = { 6904 3 }
+        victory_points = { 12300 3 }
     }
-    provinces = { 1137 1590 6904 9776 12432 1027 10507 1438 10480 1203 4469 12300 4074 }
+    provinces = { 1137 1590 12432 1027 10507 1438 10480 1203 4469 12300 4074 }
     local_supplies = 0.0
 }
