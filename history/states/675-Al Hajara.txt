@@ -4,8 +4,8 @@ state = {
     manpower = 222093
     state_category = wasteland
     history = {
-        owner = IRQ
-        add_core_of = IRQ
+        owner = QOY
+        add_core_of = QOY
         victory_points = { 12879 1 }
         buildings = {
         }
