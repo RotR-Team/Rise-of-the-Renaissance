@@ -1403,3 +1403,8 @@ MON = {
 	color = rgb { 1 76 177 }
 	color_ui = rgb { 1 76 177 }
 }
+
+TIM = {
+	color = rgb { 155 35 31 }
+	color_ui = rgb { 155 35 31 }
+}

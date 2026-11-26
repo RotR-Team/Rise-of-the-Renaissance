@@ -2,7 +2,7 @@ state = {
     id = 405
     name = STATE_405
     history = {
-        owner = SOV
+        owner = TIM
         victory_points = { 1459 3 }
         victory_points = { 10488 1 }
         buildings = {
@@ -10,8 +10,7 @@ state = {
             industrial_complex = 2
             air_base = 1
         }
-        add_core_of = SOV
-        add_core_of = UZB
+        add_core_of = TIM
     }
     provinces = { 1459 4629 7682 10488 11687 }
     manpower = 4137910

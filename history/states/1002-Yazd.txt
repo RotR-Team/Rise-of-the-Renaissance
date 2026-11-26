@@ -6,12 +6,12 @@ state = {
     }
     state_category = rural
     history = {
-        owner = PER
+        owner = TIM
         buildings = {
             infrastructure = 1
         }
         victory_points = { 8031 1 }
-        add_core_of = PER
+        add_core_of = TIM
     }
     provinces = { 8031 1963 10828 }
     local_supplies = 0.0

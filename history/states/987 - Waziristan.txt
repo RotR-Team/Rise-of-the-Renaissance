@@ -6,15 +6,10 @@ state = {
     resources = {
     }
     history = {
-        owner = RAJ
+        owner = TIM
         buildings = {
         }
-        add_core_of = NWF
-        add_core_of = PAK
-        add_core_of = KHL
-        set_compliance = 0
-        start_resistance = yes
-        set_resistance = 70
+        add_core_of = TIM
         buildings = {
             infrastructure = 1
         }

@@ -4,12 +4,11 @@ state = {
     manpower = 390139
     state_category = rural
     history = {
-        owner = PER
+        owner = TIM
         buildings = {
             infrastructure = 1
         }
-        add_core_of = PER
-        add_core_of = KUR
+        add_core_of = TIM
     }
     provinces = { 829 5050 10774 }
     local_supplies = 0.0

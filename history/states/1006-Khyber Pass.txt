@@ -5,11 +5,11 @@ state = {
     state_category = rural
     provinces = { 5082 12831 }
     history = {
-        owner = AFG
+        owner = TIM
         buildings = {
             infrastructure = 1
         }
-        add_core_of = AFG
+        add_core_of = TIM
         victory_points = { 5082 1 }
         victory_points = { 12831 1 }
     }
