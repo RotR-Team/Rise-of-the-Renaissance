@@ -1398,3 +1398,8 @@ GEN = {
 	color = rgb { 195 255 0 }
 	color_ui = rgb { 195 255 0 }
 }
+
+MON = {
+	color = rgb { 1 76 177 }
+	color_ui = rgb { 1 76 177 }
+}

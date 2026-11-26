@@ -483,6 +483,7 @@ KOR = "countries/KOR - Joseon Kingdom.txt"
 PSK = "countries/PSK - Pskov.txt"
 NOV = "countries/NOV - Novgorod.txt"
 GEN = "countries/GEN - Genoa.txt"
+MON = "countries/MON - Northern Yuan.txt"
 
 CST = "countries/WestEurope.txt"
 MIL = "countries/WestEurope.txt"

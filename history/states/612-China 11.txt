@@ -8,10 +8,8 @@ state = {
         coal = 3
     }
     history = {
-        owner = MEN
-        add_core_of = MEN
-        add_core_of = CHI
-        add_core_of = PRC
+        owner = MON
+        add_core_of = MON
         buildings = {
             infrastructure = 1
             arms_factory = 1

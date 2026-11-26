@@ -7,11 +7,8 @@ state = {
         coal = 7
     }
     history = {
-        owner = SHX
-        add_core_of = SHX
-        add_core_of = CHI
-        add_core_of = PRC
-        add_core_of = MEN
+        owner = MON
+        add_core_of = MON
         victory_points = { 7158 1 }
         victory_points = { 7631 1 }
         buildings = {

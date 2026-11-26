@@ -5,10 +5,8 @@ state = {
         coal = 2
     }
     history = {
-        owner = XSM
-        add_core_of = XSM
-        add_core_of = CHI
-        add_core_of = PRC
+        owner = MON
+        add_core_of = MON
         buildings = {
             infrastructure = 1
             8127 = {

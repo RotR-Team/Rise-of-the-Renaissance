@@ -7,14 +7,14 @@ state = {
         aluminium = 7
     }
     history = {
-        owner = SOV
+        owner = MON
         victory_points = { 4797 3 }
         buildings = {
             infrastructure = 2
             arms_factory = 1
             air_base = 1
         }
-        add_core_of = SOV
+        add_core_of = MON
     }
     provinces = { 1707 1727 1829 4797 4815 7838 10596 10661 12525 12540 12647 }
     manpower = 755237
