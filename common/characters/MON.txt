@@ -1,0 +1,14 @@
+characters = {
+	MON_taisun_khan = {
+        name = MON_taisun_khan
+		portraits = {
+			civilian = {
+				large = GFX_rotr_portrait_MON_taisun_khan
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = 1452.1.19
+		}
+	}
+}

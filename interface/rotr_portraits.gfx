@@ -1,5 +1,9 @@
 spriteTypes = {
 	spriteType = {
+		name = GFX_rotr_portrait_MON_taisun_khan
+		texturefile = "gfx/leaders/MON/MON_taisun_khan.dds"
+	}
+	spriteType = {
 		name = GFX_rotr_portrait_CRI_haci_i_giray
 		texturefile = "gfx/leaders/CRI/CRI_haci_i_giray.dds"
 	}
